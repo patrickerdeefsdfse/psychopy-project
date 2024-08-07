@@ -1,0 +1,1803 @@
+14.5385 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1920, 1080]. Using actual size
+16.2373 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000021B1FC12070>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000021B1FC00670>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x0000021B1FC00EB0>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x0000021B1FDD6CA0>, multiSample=False, name='window1', numSamples=2, pos=(0, 0), screen=0, size=array([1920, 1080]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+16.2375 	EXP 	window1: mouseVisible = True
+16.2375 	EXP 	window1: backgroundImage = ''
+16.2375 	EXP 	window1: backgroundFit = 'none'
+16.2414 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+16.2414 	EXP 	window1: recordFrameIntervals = False
+16.4035 	EXP 	window1: recordFrameIntervals = True
+16.5870 	EXP 	Screen (0) actual frame rate measured at 59.83Hz
+16.5870 	EXP 	window1: recordFrameIntervals = False
+16.5872 	EXP 	window1: mouseVisible = False
+17.9946 	EXP 	untitled: status = STARTED
+17.9962 	EXP 	window1: mouseVisible = True
+18.0944 	EXP 	Created text_9 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_9', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+18.0946 	EXP 	window1: mouseVisible = True
+18.1305 	EXP 	Created text_6 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_6', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+18.1307 	EXP 	window1: mouseVisible = True
+18.1468 	EXP 	Created image_6 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image_6', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2.5, 1.5]), texRes=128.0, units='height', win=Window(...))
+18.1470 	EXP 	window1: mouseVisible = True
+18.1498 	EXP 	Created text_4 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.2, italic=False, languageStyle='LTR', name='text_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.1500 	EXP 	window1: mouseVisible = True
+18.1646 	EXP 	Created image_7 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image_7', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2.5, 1.5]), texRes=128.0, units='height', win=Window(...))
+18.1647 	EXP 	window1: mouseVisible = True
+18.1825 	EXP 	Created text_8 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_8', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='休息一下，下面进入正式测试啦！\n\n准备好可以按 空格 继续', units='height', win=Window(...), wrapWidth=1)
+18.1827 	EXP 	window1: mouseVisible = True
+18.1975 	EXP 	Created text_5 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_5', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+18.1976 	EXP 	window1: mouseVisible = True
+18.2062 	EXP 	Created image_3 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2.5, 1.5]), texRes=128.0, units='height', win=Window(...))
+18.2063 	EXP 	window1: mouseVisible = True
+18.2072 	EXP 	Created text_3 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.2, italic=False, languageStyle='LTR', name='text_3', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.2073 	EXP 	window1: mouseVisible = True
+18.2184 	EXP 	Created image_2 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image_2', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2.5, 1.5]), texRes=128.0, units='height', win=Window(...))
+18.2186 	EXP 	window1: mouseVisible = True
+18.2384 	EXP 	Created text_10 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_10', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+18.2385 	EXP 	window1: mouseVisible = True
+18.2494 	EXP 	Created text_7 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_7', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+18.2495 	EXP 	window1: mouseVisible = True
+18.2586 	EXP 	Created image_8 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image_8', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128.0, units='height', win=Window(...))
+18.2587 	EXP 	window1: mouseVisible = True
+18.2596 	EXP 	Created text_11 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_11', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.2596 	EXP 	window1: mouseVisible = True
+18.2688 	EXP 	Created image_9 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image_9', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2.5, 1.5]), texRes=128.0, units='height', win=Window(...))
+18.2689 	EXP 	window1: mouseVisible = True
+18.2759 	EXP 	Created text_12 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_12', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='休息一下，下面进入正式测试啦！\n\n准备好可以按 空格 继续', units='height', win=Window(...), wrapWidth=1)
+18.2761 	EXP 	window1: mouseVisible = True
+18.2870 	EXP 	Created text_13 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text_13', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+18.2871 	EXP 	window1: mouseVisible = True
+18.3040 	EXP 	Created image_4 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image_4', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2.5, 1.5]), texRes=128.0, units='height', win=Window(...))
+18.3041 	EXP 	window1: mouseVisible = True
+18.3051 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Open Sans', fontFiles=[], height=0.2, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+18.3052 	EXP 	window1: mouseVisible = True
+18.3186 	EXP 	Created image_5 = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, anchor=('center', 'center'), autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, image='default.png', interpolate=True, mask=None, maskParams=None, name='image_5', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([2.5, 1.5]), texRes=128.0, units='height', win=Window(...))
+0.0062 	EXP 	text_9: autoDraw = True
+9.4231 	DATA 	Keypress: space
+9.4341 	EXP 	text_9: autoDraw = False
+9.4341 	EXP 	text_6: autoDraw = True
+51.2614 	EXP 	Imported test/data3.xlsx as conditions, 6 conditions, 3 params
+51.2621 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+51.2623 	EXP 	New trial (rep=0, index=0): {'stimuli': 1, 'star': 'test/blank.PNG', 'CorrectAns': 'space'}
+51.4110 	DATA 	Keypress: space
+51.4231 	EXP 	text_6: autoDraw = False
+51.4231 	EXP 	image_6: image = 'test/fixation.png'
+51.4231 	EXP 	image_6: autoDraw = True
+51.7857 	EXP 	image_6: autoDraw = False
+51.7857 	EXP 	text_4: height = 0.2
+51.7857 	EXP 	text_4: height = 0.2
+51.7857 	EXP 	text_4: height = 0.2
+51.7857 	EXP 	text_4: text = 1
+52.2673 	EXP 	text_4: autoDraw = True
+52.6360 	EXP 	text_4: autoDraw = False
+52.6360 	EXP 	text_4: autoDraw = False
+52.6360 	EXP 	image_7: image = 'test/blank.PNG'
+53.6531 	DATA 	Keypress: left
+53.8694 	EXP 	image_7: autoDraw = True
+54.6677 	EXP 	image_7: autoDraw = False
+56.9701 	DATA 	Keypress: space
+56.9882 	EXP 	New trial (rep=0, index=1): {'stimuli': 8, 'star': 'test/rightstar.PNG', 'CorrectAns': 'space'}
+57.0584 	EXP 	image_7: autoDraw = False
+57.0584 	EXP 	image_6: image = 'test/fixation.png'
+57.0584 	EXP 	image_6: autoDraw = True
+57.5171 	EXP 	image_6: autoDraw = False
+57.5171 	EXP 	text_4: height = 0.2
+57.5171 	EXP 	text_4: height = 0.2
+57.5171 	EXP 	text_4: height = 0.2
+57.5171 	EXP 	text_4: text = 8
+58.0010 	EXP 	text_4: autoDraw = True
+58.5247 	EXP 	text_4: autoDraw = False
+58.5247 	EXP 	text_4: autoDraw = False
+58.5247 	EXP 	image_7: image = 'test/rightstar.PNG'
+59.6030 	EXP 	image_7: autoDraw = True
+60.4173 	EXP 	image_7: autoDraw = False
+61.2701 	EXP 	New trial (rep=0, index=2): {'stimuli': 2, 'star': 'test/leftstar.PNG', 'CorrectAns': 'left'}
+61.3243 	DATA 	Keypress: right
+61.3287 	EXP 	image_7: autoDraw = False
+61.3287 	EXP 	image_6: image = 'test/fixation.png'
+61.3287 	EXP 	image_6: autoDraw = True
+61.8004 	EXP 	image_6: autoDraw = False
+61.8004 	EXP 	text_4: height = 0.2
+61.8004 	EXP 	text_4: height = 0.2
+61.8004 	EXP 	text_4: height = 0.2
+61.8004 	EXP 	text_4: text = 2
+62.2839 	EXP 	text_4: autoDraw = True
+62.6900 	EXP 	text_4: autoDraw = False
+62.6900 	EXP 	text_4: autoDraw = False
+62.6900 	EXP 	image_7: image = 'test/leftstar.PNG'
+63.8864 	EXP 	image_7: autoDraw = True
+64.5390 	EXP 	New trial (rep=0, index=3): {'stimuli': 9, 'star': 'test/rightstar.PNG', 'CorrectAns': 'space'}
+64.5977 	DATA 	Keypress: left
+64.6029 	EXP 	image_7: autoDraw = False
+64.6029 	EXP 	image_6: image = 'test/fixation.png'
+64.6029 	EXP 	image_6: autoDraw = True
+65.0741 	EXP 	image_6: autoDraw = False
+65.0741 	EXP 	text_4: height = 0.2
+65.0741 	EXP 	text_4: height = 0.2
+65.0741 	EXP 	text_4: height = 0.2
+65.0741 	EXP 	text_4: text = 9
+65.5510 	EXP 	text_4: autoDraw = True
+65.9758 	EXP 	text_4: autoDraw = False
+65.9758 	EXP 	text_4: autoDraw = False
+65.9758 	EXP 	image_7: image = 'test/rightstar.PNG'
+67.1527 	EXP 	image_7: autoDraw = True
+67.9674 	EXP 	image_7: autoDraw = False
+69.7202 	EXP 	New trial (rep=0, index=4): {'stimuli': 1, 'star': 'test/leftstar.PNG', 'CorrectAns': 'left'}
+69.7705 	DATA 	Keypress: space
+69.7748 	EXP 	image_7: autoDraw = False
+69.7748 	EXP 	image_6: image = 'test/fixation.png'
+69.7748 	EXP 	image_6: autoDraw = True
+70.2507 	EXP 	image_6: autoDraw = False
+70.2507 	EXP 	text_4: height = 0.2
+70.2507 	EXP 	text_4: height = 0.2
+70.2507 	EXP 	text_4: height = 0.2
+70.2507 	EXP 	text_4: text = 1
+70.7341 	EXP 	text_4: autoDraw = True
+71.1428 	EXP 	text_4: autoDraw = False
+71.1428 	EXP 	text_4: autoDraw = False
+71.1428 	EXP 	image_7: image = 'test/leftstar.PNG'
+72.3365 	EXP 	image_7: autoDraw = True
+72.9871 	EXP 	New trial (rep=0, index=5): {'stimuli': 8, 'star': 'test/rightstar.PNG', 'CorrectAns': 'space'}
+73.0416 	DATA 	Keypress: left
+73.0458 	EXP 	image_7: autoDraw = False
+73.0458 	EXP 	image_6: image = 'test/fixation.png'
+73.0458 	EXP 	image_6: autoDraw = True
+73.5175 	EXP 	image_6: autoDraw = False
+73.5175 	EXP 	text_4: height = 0.2
+73.5175 	EXP 	text_4: height = 0.2
+73.5175 	EXP 	text_4: height = 0.2
+73.5175 	EXP 	text_4: text = 8
+74.0006 	EXP 	text_4: autoDraw = True
+74.4132 	EXP 	text_4: autoDraw = False
+74.4132 	EXP 	text_4: autoDraw = False
+74.4132 	EXP 	image_7: image = 'test/rightstar.PNG'
+75.6033 	EXP 	image_7: autoDraw = True
+76.4176 	EXP 	image_7: autoDraw = False
+78.1102 	DATA 	Keypress: space
+78.1174 	EXP 	image_7: autoDraw = False
+78.1174 	EXP 	text_8: autoDraw = True
+89.1240 	DATA 	Keypress: space
+89.1507 	EXP 	text_8: autoDraw = False
+89.1507 	EXP 	text_5: autoDraw = True
+94.3739 	EXP 	Imported condition_1/data.xlsx as conditions, 25 conditions, 3 params
+94.3744 	EXP 	Created sequence: random, trialTypes=25, nReps=2, seed=None
+94.3746 	EXP 	New trial (rep=0, index=0): {'stimuli': 2, 'star': 'condition_1/leftstar.PNG', 'CorrectAns': 'left'}
+94.4708 	DATA 	Keypress: space
+94.4776 	EXP 	text_5: autoDraw = False
+94.4776 	EXP 	image_3: image = 'condition_1/fixation.png'
+94.4776 	EXP 	image_3: autoDraw = True
+94.8843 	EXP 	image_3: autoDraw = False
+94.8843 	EXP 	text_3: height = 0.2
+94.8843 	EXP 	text_3: height = 0.2
+94.8843 	EXP 	text_3: height = 0.2
+94.8843 	EXP 	text_3: text = 2
+95.3676 	EXP 	text_3: autoDraw = True
+95.9206 	EXP 	text_3: autoDraw = False
+95.9206 	EXP 	text_3: autoDraw = False
+95.9206 	EXP 	image_2: image = 'condition_1/leftstar.PNG'
+96.9742 	EXP 	image_2: autoDraw = True
+97.4214 	EXP 	New trial (rep=0, index=1): {'stimuli': 9, 'star': 'condition_1/rightstar.PNG', 'CorrectAns': 'space'}
+97.4730 	DATA 	Keypress: left
+97.4790 	EXP 	image_2: autoDraw = False
+97.4790 	EXP 	image_3: image = 'condition_1/fixation.png'
+97.4790 	EXP 	image_3: autoDraw = True
+97.9997 	EXP 	image_3: autoDraw = False
+97.9997 	EXP 	text_3: height = 0.2
+97.9997 	EXP 	text_3: height = 0.2
+97.9997 	EXP 	text_3: height = 0.2
+97.9997 	EXP 	text_3: text = 9
+98.4341 	EXP 	text_3: autoDraw = True
+98.8417 	EXP 	text_3: autoDraw = False
+98.8417 	EXP 	text_3: autoDraw = False
+98.8417 	EXP 	image_2: image = 'condition_1/rightstar.PNG'
+100.0364 	EXP 	image_2: autoDraw = True
+100.1888 	EXP 	New trial (rep=0, index=2): {'stimuli': 9, 'star': 'condition_1/leftstar.PNG', 'CorrectAns': 'space'}
+100.2407 	DATA 	Keypress: space
+100.2449 	EXP 	image_2: autoDraw = False
+100.2449 	EXP 	image_3: image = 'condition_1/fixation.png'
+100.2449 	EXP 	image_3: autoDraw = True
+100.7175 	EXP 	image_3: autoDraw = False
+100.7175 	EXP 	text_3: height = 0.2
+100.7175 	EXP 	text_3: height = 0.2
+100.7175 	EXP 	text_3: height = 0.2
+100.7175 	EXP 	text_3: text = 9
+101.2010 	EXP 	text_3: autoDraw = True
+101.6063 	EXP 	text_3: autoDraw = False
+101.6063 	EXP 	text_3: autoDraw = False
+101.6063 	EXP 	image_2: image = 'condition_1/leftstar.PNG'
+102.8027 	EXP 	image_2: autoDraw = True
+103.0875 	EXP 	New trial (rep=0, index=3): {'stimuli': 8, 'star': 'condition_1/rightstar.PNG', 'CorrectAns': 'space'}
+103.1370 	DATA 	Keypress: space
+103.1423 	EXP 	image_2: autoDraw = False
+103.1423 	EXP 	image_3: image = 'condition_1/fixation.png'
+103.1423 	EXP 	image_3: autoDraw = True
+103.6174 	EXP 	image_3: autoDraw = False
+103.6174 	EXP 	text_3: height = 0.2
+103.6174 	EXP 	text_3: height = 0.2
+103.6174 	EXP 	text_3: height = 0.2
+103.6174 	EXP 	text_3: text = 8
+104.1007 	EXP 	text_3: autoDraw = True
+104.5174 	EXP 	text_3: autoDraw = False
+104.5174 	EXP 	text_3: autoDraw = False
+104.5174 	EXP 	image_2: image = 'condition_1/rightstar.PNG'
+105.7035 	EXP 	image_2: autoDraw = True
+106.1545 	EXP 	New trial (rep=0, index=4): {'stimuli': 9, 'star': 'condition_1/leftstar.PNG', 'CorrectAns': 'space'}
+106.2059 	DATA 	Keypress: space
+106.2102 	EXP 	image_2: autoDraw = False
+106.2102 	EXP 	image_3: image = 'condition_1/fixation.png'
+106.2102 	EXP 	image_3: autoDraw = True
+106.6838 	EXP 	image_3: autoDraw = False
+106.6838 	EXP 	text_3: height = 0.2
+106.6838 	EXP 	text_3: height = 0.2
+106.6838 	EXP 	text_3: height = 0.2
+106.6838 	EXP 	text_3: text = 9
+107.1672 	EXP 	text_3: autoDraw = True
+107.5899 	EXP 	text_3: autoDraw = False
+107.5899 	EXP 	text_3: autoDraw = False
+107.5899 	EXP 	image_2: image = 'condition_1/leftstar.PNG'
+108.7697 	EXP 	image_2: autoDraw = True
+109.5839 	EXP 	image_2: autoDraw = False
+109.9031 	EXP 	New trial (rep=0, index=5): {'stimuli': 2, 'star': 'condition_1/leftstar.PNG', 'CorrectAns': 'left'}
+109.9574 	DATA 	Keypress: space
+109.9622 	EXP 	image_2: autoDraw = False
+109.9622 	EXP 	image_3: image = 'condition_1/fixation.png'
+109.9622 	EXP 	image_3: autoDraw = True
+110.4408 	EXP 	image_3: autoDraw = False
+110.4408 	EXP 	text_3: height = 0.2
+110.4408 	EXP 	text_3: height = 0.2
+110.4408 	EXP 	text_3: height = 0.2
+110.4408 	EXP 	text_3: text = 2
+110.9176 	EXP 	text_3: autoDraw = True
+111.3331 	EXP 	text_3: autoDraw = False
+111.3331 	EXP 	text_3: autoDraw = False
+111.3331 	EXP 	image_2: image = 'condition_1/leftstar.PNG'
+112.5196 	EXP 	image_2: autoDraw = True
+112.8213 	DATA 	Keypress: left
+112.8376 	EXP 	New trial (rep=0, index=6): {'stimuli': 1, 'star': 'condition_1/leftstar.PNG', 'CorrectAns': 'left'}
+112.8969 	EXP 	image_2: autoDraw = False
+112.8969 	EXP 	image_3: image = 'condition_1/fixation.png'
+112.8969 	EXP 	image_3: autoDraw = True
+113.3676 	EXP 	image_3: autoDraw = False
+113.3676 	EXP 	text_3: height = 0.2
+113.3676 	EXP 	text_3: height = 0.2
+113.3676 	EXP 	text_3: height = 0.2
+113.3676 	EXP 	text_3: text = 1
+113.8508 	EXP 	text_3: autoDraw = True
+114.2647 	EXP 	text_3: autoDraw = False
+114.2647 	EXP 	text_3: autoDraw = False
+114.2647 	EXP 	image_2: image = 'condition_1/leftstar.PNG'
+115.4527 	EXP 	image_2: autoDraw = True
+115.8047 	EXP 	New trial (rep=0, index=7): {'stimuli': 2, 'star': 'condition_1/rightstar.PNG', 'CorrectAns': 'left'}
+115.8571 	DATA 	Keypress: left
+115.8621 	EXP 	image_2: autoDraw = False
+115.8621 	EXP 	image_3: image = 'condition_1/fixation.png'
+115.8621 	EXP 	image_3: autoDraw = True
+116.3340 	EXP 	image_3: autoDraw = False
+116.3340 	EXP 	text_3: height = 0.2
+116.3340 	EXP 	text_3: height = 0.2
+116.3340 	EXP 	text_3: height = 0.2
+116.3340 	EXP 	text_3: text = 2
+116.8175 	EXP 	text_3: autoDraw = True
+117.2229 	EXP 	text_3: autoDraw = False
+117.2229 	EXP 	text_3: autoDraw = False
+117.2229 	EXP 	image_2: image = 'condition_1/rightstar.PNG'
+118.4198 	EXP 	image_2: autoDraw = True
+118.8047 	EXP 	New trial (rep=0, index=8): {'stimuli': 1, 'star': 'condition_1/rightstar.PNG', 'CorrectAns': 'right'}
+118.8542 	DATA 	Keypress: right
+118.8587 	EXP 	image_2: autoDraw = False
+118.8587 	EXP 	image_3: image = 'condition_1/fixation.png'
+118.8587 	EXP 	image_3: autoDraw = True
+119.3341 	EXP 	image_3: autoDraw = False
+119.3341 	EXP 	text_3: height = 0.2
+119.3341 	EXP 	text_3: height = 0.2
+119.3341 	EXP 	text_3: height = 0.2
+119.3341 	EXP 	text_3: text = 1
+119.8176 	EXP 	text_3: autoDraw = True
+120.2359 	EXP 	text_3: autoDraw = False
+120.2359 	EXP 	text_3: autoDraw = False
+120.2359 	EXP 	image_2: image = 'condition_1/rightstar.PNG'
+121.4196 	EXP 	image_2: autoDraw = True
+121.8207 	EXP 	New trial (rep=0, index=9): {'stimuli': 2, 'star': 'condition_1/blank.PNG', 'CorrectAns': 'space'}
+121.8722 	DATA 	Keypress: right
+121.8778 	EXP 	image_2: autoDraw = False
+121.8778 	EXP 	image_3: image = 'condition_1/fixation.png'
+121.8778 	EXP 	image_3: autoDraw = True
+122.3508 	EXP 	image_3: autoDraw = False
+122.3508 	EXP 	text_3: height = 0.2
+122.3508 	EXP 	text_3: height = 0.2
+122.3508 	EXP 	text_3: height = 0.2
+122.3508 	EXP 	text_3: text = 2
+122.8341 	EXP 	text_3: autoDraw = True
+123.2510 	EXP 	text_3: autoDraw = False
+123.2510 	EXP 	text_3: autoDraw = False
+123.2510 	EXP 	image_2: image = 'condition_1/blank.PNG'
+124.4353 	EXP 	image_2: autoDraw = True
+125.2342 	EXP 	image_2: autoDraw = False
+125.9382 	EXP 	New trial (rep=0, index=10): {'stimuli': 9, 'star': 'condition_1/leftstar.PNG', 'CorrectAns': 'space'}
+126.0078 	DATA 	Keypress: space
+126.0130 	EXP 	image_2: autoDraw = False
+126.0130 	EXP 	image_3: image = 'condition_1/fixation.png'
+126.0130 	EXP 	image_3: autoDraw = True
+126.4671 	EXP 	image_3: autoDraw = False
+126.4671 	EXP 	text_3: height = 0.2
+126.4671 	EXP 	text_3: height = 0.2
+126.4671 	EXP 	text_3: height = 0.2
+126.4671 	EXP 	text_3: text = 9
+126.9507 	EXP 	text_3: autoDraw = True
+127.4620 	EXP 	text_3: autoDraw = False
+127.4620 	EXP 	text_3: autoDraw = False
+127.4620 	EXP 	image_2: image = 'condition_1/leftstar.PNG'
+128.5534 	EXP 	image_2: autoDraw = True
+129.2574 	EXP 	New trial (rep=0, index=11): {'stimuli': 9, 'star': 'condition_1/rightstar.PNG', 'CorrectAns': 'space'}
+129.3064 	DATA 	Keypress: space
+129.3109 	EXP 	image_2: autoDraw = False
+129.3109 	EXP 	image_3: image = 'condition_1/fixation.png'
+129.3109 	EXP 	image_3: autoDraw = True
+129.7840 	EXP 	image_3: autoDraw = False
+129.7840 	EXP 	text_3: height = 0.2
+129.7840 	EXP 	text_3: height = 0.2
+129.7840 	EXP 	text_3: height = 0.2
+129.7840 	EXP 	text_3: text = 9
+130.2677 	EXP 	text_3: autoDraw = True
+130.6759 	EXP 	text_3: autoDraw = False
+130.6759 	EXP 	text_3: autoDraw = False
+130.6759 	EXP 	image_2: image = 'condition_1/rightstar.PNG'
+131.8696 	EXP 	image_2: autoDraw = True
+132.6841 	EXP 	image_2: autoDraw = False
+133.2860 	EXP 	New trial (rep=0, index=12): {'stimuli': 2, 'star': 'condition_1/blank.PNG', 'CorrectAns': 'space'}
+133.3421 	DATA 	Keypress: space
+133.3472 	EXP 	image_2: autoDraw = False
+133.3472 	EXP 	image_3: image = 'condition_1/fixation.png'
+133.3472 	EXP 	image_3: autoDraw = True
+133.8174 	EXP 	image_3: autoDraw = False
+133.8174 	EXP 	text_3: height = 0.2
+133.8174 	EXP 	text_3: height = 0.2
+133.8174 	EXP 	text_3: height = 0.2
+133.8174 	EXP 	text_3: text = 2
+134.3008 	EXP 	text_3: autoDraw = True
+134.6772 	EXP 	text_3: autoDraw = False
+134.6772 	EXP 	text_3: autoDraw = False
+134.6772 	EXP 	image_2: image = 'condition_1/blank.PNG'
+135.9023 	EXP 	image_2: autoDraw = True
+136.7175 	EXP 	image_2: autoDraw = False
+138.1700 	EXP 	New trial (rep=0, index=13): {'stimuli': 8, 'star': 'condition_1/blank.PNG', 'CorrectAns': 'space'}
+138.2247 	DATA 	Keypress: space
+138.2293 	EXP 	image_2: autoDraw = False
+138.2293 	EXP 	image_3: image = 'condition_1/fixation.png'
+138.2293 	EXP 	image_3: autoDraw = True
+138.7010 	EXP 	image_3: autoDraw = False
+138.7010 	EXP 	text_3: height = 0.2
+138.7010 	EXP 	text_3: height = 0.2
+138.7010 	EXP 	text_3: height = 0.2
+138.7010 	EXP 	text_3: text = 8
+139.1844 	EXP 	text_3: autoDraw = True
+139.5044 	EXP 	text_3: autoDraw = False
+139.5044 	EXP 	text_3: autoDraw = False
+139.5044 	EXP 	image_2: image = 'condition_1/blank.PNG'
+140.7853 	EXP 	image_2: autoDraw = True
+141.5842 	EXP 	image_2: autoDraw = False
+141.8030 	EXP 	New trial (rep=0, index=14): {'stimuli': 2, 'star': 'condition_1/leftstar.PNG', 'CorrectAns': 'left'}
+141.8650 	DATA 	Keypress: space
+141.8715 	EXP 	image_2: autoDraw = False
+141.8715 	EXP 	image_3: image = 'condition_1/fixation.png'
+141.8715 	EXP 	image_3: autoDraw = True
+142.3343 	EXP 	image_3: autoDraw = False
+142.3343 	EXP 	text_3: height = 0.2
+142.3343 	EXP 	text_3: height = 0.2
+142.3343 	EXP 	text_3: height = 0.2
+142.3343 	EXP 	text_3: text = 2
+142.8176 	EXP 	text_3: autoDraw = True
+143.3973 	EXP 	text_3: autoDraw = False
+143.3973 	EXP 	text_3: autoDraw = False
+143.3973 	EXP 	image_2: image = 'condition_1/leftstar.PNG'
+144.4195 	EXP 	image_2: autoDraw = True
+144.9559 	EXP 	New trial (rep=0, index=15): {'stimuli': 1, 'star': 'condition_1/rightstar.PNG', 'CorrectAns': 'right'}
+145.0047 	DATA 	Keypress: left
+145.0095 	EXP 	image_2: autoDraw = False
+145.0095 	EXP 	image_3: image = 'condition_1/fixation.png'
+145.0095 	EXP 	image_3: autoDraw = True
+145.4840 	EXP 	image_3: autoDraw = False
+145.4840 	EXP 	text_3: height = 0.2
+145.4840 	EXP 	text_3: height = 0.2
+145.4840 	EXP 	text_3: height = 0.2
+145.4840 	EXP 	text_3: text = 1
+145.9675 	EXP 	text_3: autoDraw = True
+146.3878 	EXP 	text_3: autoDraw = False
+146.3878 	EXP 	text_3: autoDraw = False
+146.3878 	EXP 	image_2: image = 'condition_1/rightstar.PNG'
+147.5698 	EXP 	image_2: autoDraw = True
+148.0708 	EXP 	New trial (rep=0, index=16): {'stimuli': 8, 'star': 'condition_1/leftstar.PNG', 'CorrectAns': 'space'}
+148.1455 	DATA 	Keypress: right
+148.1507 	EXP 	image_2: autoDraw = False
+148.1507 	EXP 	image_3: image = 'condition_1/fixation.png'
+148.1507 	EXP 	image_3: autoDraw = True
+148.6004 	EXP 	image_3: autoDraw = False
+148.6004 	EXP 	text_3: height = 0.2
+148.6004 	EXP 	text_3: height = 0.2
+148.6004 	EXP 	text_3: height = 0.2
+148.6004 	EXP 	text_3: text = 8
+149.0841 	EXP 	text_3: autoDraw = True
+149.5326 	EXP 	text_3: autoDraw = False
+149.5326 	EXP 	text_3: autoDraw = False
+149.5326 	EXP 	image_2: image = 'condition_1/leftstar.PNG'
+150.6865 	EXP 	image_2: autoDraw = True
+151.5007 	EXP 	image_2: autoDraw = False
+152.1369 	EXP 	New trial (rep=0, index=17): {'stimuli': 8, 'star': 'condition_1/leftstar.PNG', 'CorrectAns': 'space'}
+152.1918 	DATA 	Keypress: space
+152.1966 	EXP 	image_2: autoDraw = False
+152.1966 	EXP 	image_3: image = 'condition_1/fixation.png'
+152.1966 	EXP 	image_3: autoDraw = True
+152.6674 	EXP 	image_3: autoDraw = False
+152.6674 	EXP 	text_3: height = 0.2
+152.6674 	EXP 	text_3: height = 0.2
+152.6674 	EXP 	text_3: height = 0.2
+152.6674 	EXP 	text_3: text = 8
+153.1508 	EXP 	text_3: autoDraw = True
+153.5778 	EXP 	text_3: autoDraw = False
+153.5778 	EXP 	text_3: autoDraw = False
+153.5778 	EXP 	image_2: image = 'condition_1/leftstar.PNG'
+154.7528 	EXP 	image_2: autoDraw = True
+155.5068 	EXP 	New trial (rep=0, index=18): {'stimuli': 9, 'star': 'condition_1/blank.PNG', 'CorrectAns': 'space'}
+155.5686 	DATA 	Keypress: space
+155.5734 	EXP 	image_2: autoDraw = False
+155.5734 	EXP 	image_3: image = 'condition_1/fixation.png'
+155.5734 	EXP 	image_3: autoDraw = True
+156.0342 	EXP 	image_3: autoDraw = False
+156.0342 	EXP 	text_3: height = 0.2
+156.0342 	EXP 	text_3: height = 0.2
+156.0342 	EXP 	text_3: height = 0.2
+156.0342 	EXP 	text_3: text = 9
+156.5174 	EXP 	text_3: autoDraw = True
+156.9348 	EXP 	text_3: autoDraw = False
+156.9348 	EXP 	text_3: autoDraw = False
+156.9348 	EXP 	image_2: image = 'condition_1/blank.PNG'
+158.1186 	EXP 	image_2: autoDraw = True
+158.9178 	EXP 	image_2: autoDraw = False
+159.8533 	DATA 	Keypress: space
+159.8699 	EXP 	New trial (rep=0, index=19): {'stimuli': 8, 'star': 'condition_1/rightstar.PNG', 'CorrectAns': 'space'}
+159.9363 	EXP 	image_2: autoDraw = False
+159.9363 	EXP 	image_3: image = 'condition_1/fixation.png'
+159.9363 	EXP 	image_3: autoDraw = True
+160.4007 	EXP 	image_3: autoDraw = False
+160.4007 	EXP 	text_3: height = 0.2
+160.4007 	EXP 	text_3: height = 0.2
+160.4007 	EXP 	text_3: height = 0.2
+160.4007 	EXP 	text_3: text = 8
+160.8841 	EXP 	text_3: autoDraw = True
+161.4368 	EXP 	text_3: autoDraw = False
+161.4368 	EXP 	text_3: autoDraw = False
+161.4368 	EXP 	image_2: image = 'condition_1/rightstar.PNG'
+162.4868 	EXP 	image_2: autoDraw = True
+163.2711 	EXP 	New trial (rep=0, index=20): {'stimuli': 1, 'star': 'condition_1/rightstar.PNG', 'CorrectAns': 'right'}
+163.3233 	DATA 	Keypress: space
+163.3277 	EXP 	image_2: autoDraw = False
+163.3277 	EXP 	image_3: image = 'condition_1/fixation.png'
+163.3277 	EXP 	image_3: autoDraw = True
+163.8008 	EXP 	image_3: autoDraw = False
+163.8008 	EXP 	text_3: height = 0.2
+163.8008 	EXP 	text_3: height = 0.2
+163.8008 	EXP 	text_3: height = 0.2
+163.8008 	EXP 	text_3: text = 1
+164.2839 	EXP 	text_3: autoDraw = True
+164.7017 	EXP 	text_3: autoDraw = False
+164.7017 	EXP 	text_3: autoDraw = False
+164.7017 	EXP 	image_2: image = 'condition_1/rightstar.PNG'
+165.8865 	EXP 	image_2: autoDraw = True
+166.4717 	EXP 	New trial (rep=0, index=21): {'stimuli': 1, 'star': 'condition_1/leftstar.PNG', 'CorrectAns': 'left'}
+166.5288 	DATA 	Keypress: right
+166.5334 	EXP 	image_2: autoDraw = False
+166.5334 	EXP 	image_3: image = 'condition_1/fixation.png'
+166.5334 	EXP 	image_3: autoDraw = True
+167.0008 	EXP 	image_3: autoDraw = False
+167.0008 	EXP 	text_3: height = 0.2
+167.0008 	EXP 	text_3: height = 0.2
+167.0008 	EXP 	text_3: height = 0.2
+167.0008 	EXP 	text_3: text = 1
+167.4842 	EXP 	text_3: autoDraw = True
+167.9188 	EXP 	text_3: autoDraw = False
+167.9188 	EXP 	text_3: autoDraw = False
+167.9188 	EXP 	image_2: image = 'condition_1/leftstar.PNG'
+169.0859 	EXP 	image_2: autoDraw = True
+169.5372 	EXP 	New trial (rep=0, index=22): {'stimuli': 8, 'star': 'condition_1/rightstar.PNG', 'CorrectAns': 'space'}
+169.5873 	DATA 	Keypress: left
+169.5919 	EXP 	image_2: autoDraw = False
+169.5919 	EXP 	image_3: image = 'condition_1/fixation.png'
+169.5919 	EXP 	image_3: autoDraw = True
+170.0783 	EXP 	image_3: autoDraw = False
+170.0783 	EXP 	text_3: height = 0.2
+170.0783 	EXP 	text_3: height = 0.2
+170.0783 	EXP 	text_3: height = 0.2
+170.0783 	EXP 	text_3: text = 8
+170.5507 	EXP 	text_3: autoDraw = True
+170.9558 	EXP 	text_3: autoDraw = False
+170.9558 	EXP 	text_3: autoDraw = False
+170.9558 	EXP 	image_2: image = 'condition_1/rightstar.PNG'
+172.1531 	EXP 	image_2: autoDraw = True
+172.5041 	EXP 	New trial (rep=0, index=23): {'stimuli': 1, 'star': 'condition_1/blank.PNG', 'CorrectAns': 'space'}
+172.5565 	DATA 	Keypress: space
+172.5620 	EXP 	image_2: autoDraw = False
+172.5620 	EXP 	image_3: image = 'condition_1/fixation.png'
+172.5620 	EXP 	image_3: autoDraw = True
+173.0343 	EXP 	image_3: autoDraw = False
+173.0343 	EXP 	text_3: height = 0.2
+173.0343 	EXP 	text_3: height = 0.2
+173.0343 	EXP 	text_3: height = 0.2
+173.0343 	EXP 	text_3: text = 1
+173.5175 	EXP 	text_3: autoDraw = True
+173.9378 	EXP 	text_3: autoDraw = False
+173.9378 	EXP 	text_3: autoDraw = False
+173.9378 	EXP 	image_2: image = 'condition_1/blank.PNG'
+175.1185 	EXP 	image_2: autoDraw = True
+175.9174 	EXP 	image_2: autoDraw = False
+177.1700 	EXP 	New trial (rep=0, index=24): {'stimuli': 2, 'star': 'condition_1/rightstar.PNG', 'CorrectAns': 'right'}
+177.2283 	DATA 	Keypress: space
+177.2328 	EXP 	image_2: autoDraw = False
+177.2328 	EXP 	image_3: image = 'condition_1/fixation.png'
+177.2328 	EXP 	image_3: autoDraw = True
+177.7010 	EXP 	image_3: autoDraw = False
+177.7010 	EXP 	text_3: height = 0.2
+177.7010 	EXP 	text_3: height = 0.2
+177.7010 	EXP 	text_3: height = 0.2
+177.7010 	EXP 	text_3: text = 2
+178.1846 	EXP 	text_3: autoDraw = True
+178.7303 	EXP 	text_3: autoDraw = False
+178.7303 	EXP 	text_3: autoDraw = False
+178.7303 	EXP 	image_2: image = 'condition_1/rightstar.PNG'
+179.7861 	EXP 	image_2: autoDraw = True
+180.2039 	EXP 	New trial (rep=1, index=0): {'stimuli': 9, 'star': 'condition_1/rightstar.PNG', 'CorrectAns': 'space'}
+180.2654 	DATA 	Keypress: right
+180.2706 	EXP 	image_2: autoDraw = False
+180.2706 	EXP 	image_3: image = 'condition_1/fixation.png'
+180.2706 	EXP 	image_3: autoDraw = True
+180.7339 	EXP 	image_3: autoDraw = False
+180.7339 	EXP 	text_3: height = 0.2
+180.7339 	EXP 	text_3: height = 0.2
+180.7339 	EXP 	text_3: height = 0.2
+180.7339 	EXP 	text_3: text = 9
+181.2174 	EXP 	text_3: autoDraw = True
+181.6290 	EXP 	text_3: autoDraw = False
+181.6290 	EXP 	text_3: autoDraw = False
+181.6290 	EXP 	image_2: image = 'condition_1/rightstar.PNG'
+182.8200 	EXP 	image_2: autoDraw = True
+183.4041 	EXP 	New trial (rep=1, index=1): {'stimuli': 1, 'star': 'condition_1/leftstar.PNG', 'CorrectAns': 'left'}
+183.4728 	DATA 	Keypress: space
+183.4770 	EXP 	image_2: autoDraw = False
+183.4770 	EXP 	image_3: image = 'condition_1/fixation.png'
+183.4770 	EXP 	image_3: autoDraw = True
+183.9340 	EXP 	image_3: autoDraw = False
+183.9340 	EXP 	text_3: height = 0.2
+183.9340 	EXP 	text_3: height = 0.2
+183.9340 	EXP 	text_3: height = 0.2
+183.9340 	EXP 	text_3: text = 1
+184.4175 	EXP 	text_3: autoDraw = True
+184.9306 	EXP 	text_3: autoDraw = False
+184.9306 	EXP 	text_3: autoDraw = False
+184.9306 	EXP 	image_2: image = 'condition_1/leftstar.PNG'
+186.0197 	EXP 	image_2: autoDraw = True
+186.5206 	EXP 	New trial (rep=1, index=2): {'stimuli': 1, 'star': 'condition_1/leftstar.PNG', 'CorrectAns': 'left'}
+186.5995 	DATA 	Keypress: left
+186.6036 	EXP 	image_2: autoDraw = False
+186.6036 	EXP 	image_3: image = 'condition_1/fixation.png'
+186.6036 	EXP 	image_3: autoDraw = True
+187.0507 	EXP 	image_3: autoDraw = False
+187.0507 	EXP 	text_3: height = 0.2
+187.0507 	EXP 	text_3: height = 0.2
+187.0507 	EXP 	text_3: height = 0.2
+187.0507 	EXP 	text_3: text = 1
+187.5341 	EXP 	text_3: autoDraw = True
+187.9662 	EXP 	text_3: autoDraw = False
+187.9662 	EXP 	text_3: autoDraw = False
+187.9662 	EXP 	image_2: image = 'condition_1/leftstar.PNG'
+189.1371 	EXP 	image_2: autoDraw = True
+189.6705 	EXP 	New trial (rep=1, index=3): {'stimuli': 2, 'star': 'condition_1/leftstar.PNG', 'CorrectAns': 'left'}
+189.7262 	DATA 	Keypress: left
+189.7315 	EXP 	image_2: autoDraw = False
+189.7315 	EXP 	image_3: image = 'condition_1/fixation.png'
+189.7315 	EXP 	image_3: autoDraw = True
+190.2130 	EXP 	image_3: autoDraw = False
+190.2130 	EXP 	text_3: height = 0.2
+190.2130 	EXP 	text_3: height = 0.2
+190.2130 	EXP 	text_3: height = 0.2
+190.2130 	EXP 	text_3: text = 2
+190.6840 	EXP 	text_3: autoDraw = True
+191.1043 	EXP 	text_3: autoDraw = False
+191.1043 	EXP 	text_3: autoDraw = False
+191.1043 	EXP 	image_2: image = 'condition_1/leftstar.PNG'
+192.2862 	EXP 	image_2: autoDraw = True
+192.7543 	EXP 	New trial (rep=1, index=4): {'stimuli': 9, 'star': 'condition_1/leftstar.PNG', 'CorrectAns': 'space'}
+192.8042 	DATA 	Keypress: left
+192.8085 	EXP 	image_2: autoDraw = False
+192.8085 	EXP 	image_3: image = 'condition_1/fixation.png'
+192.8085 	EXP 	image_3: autoDraw = True
+193.2843 	EXP 	image_3: autoDraw = False
+193.2843 	EXP 	text_3: height = 0.2
+193.2843 	EXP 	text_3: height = 0.2
+193.2843 	EXP 	text_3: height = 0.2
+193.2843 	EXP 	text_3: text = 9
+193.7675 	EXP 	text_3: autoDraw = True
+194.1747 	EXP 	text_3: autoDraw = False
+194.1747 	EXP 	text_3: autoDraw = False
+194.1747 	EXP 	image_2: image = 'condition_1/leftstar.PNG'
+195.3693 	EXP 	image_2: autoDraw = True
+195.9382 	DATA 	Keypress: space
+195.9540 	EXP 	New trial (rep=1, index=5): {'stimuli': 9, 'star': 'condition_1/leftstar.PNG', 'CorrectAns': 'space'}
+196.0093 	EXP 	image_2: autoDraw = False
+196.0093 	EXP 	image_3: image = 'condition_1/fixation.png'
+196.0093 	EXP 	image_3: autoDraw = True
+196.4843 	EXP 	image_3: autoDraw = False
+196.4843 	EXP 	text_3: height = 0.2
+196.4843 	EXP 	text_3: height = 0.2
+196.4843 	EXP 	text_3: height = 0.2
+196.4843 	EXP 	text_3: text = 9
+196.9673 	EXP 	text_3: autoDraw = True
+197.3821 	EXP 	text_3: autoDraw = False
+197.3821 	EXP 	text_3: autoDraw = False
+197.3821 	EXP 	image_2: image = 'condition_1/leftstar.PNG'
+198.5696 	EXP 	image_2: autoDraw = True
+198.9729 	EXP 	New trial (rep=1, index=6): {'stimuli': 2, 'star': 'condition_1/leftstar.PNG', 'CorrectAns': 'left'}
+199.0216 	DATA 	Keypress: space
+199.0267 	EXP 	image_2: autoDraw = False
+199.0267 	EXP 	image_3: image = 'condition_1/fixation.png'
+199.0267 	EXP 	image_3: autoDraw = True
+199.5009 	EXP 	image_3: autoDraw = False
+199.5009 	EXP 	text_3: height = 0.2
+199.5009 	EXP 	text_3: height = 0.2
+199.5009 	EXP 	text_3: height = 0.2
+199.5009 	EXP 	text_3: text = 2
+199.9842 	EXP 	text_3: autoDraw = True
+200.3996 	EXP 	text_3: autoDraw = False
+200.3996 	EXP 	text_3: autoDraw = False
+200.3996 	EXP 	image_2: image = 'condition_1/leftstar.PNG'
+201.5859 	EXP 	image_2: autoDraw = True
+201.9556 	DATA 	Keypress: left
+201.9714 	EXP 	New trial (rep=1, index=7): {'stimuli': 1, 'star': 'condition_1/blank.PNG', 'CorrectAns': 'space'}
+202.0324 	EXP 	image_2: autoDraw = False
+202.0324 	EXP 	image_3: image = 'condition_1/fixation.png'
+202.0324 	EXP 	image_3: autoDraw = True
+202.5006 	EXP 	image_3: autoDraw = False
+202.5006 	EXP 	text_3: height = 0.2
+202.5006 	EXP 	text_3: height = 0.2
+202.5006 	EXP 	text_3: height = 0.2
+202.5006 	EXP 	text_3: text = 1
+202.9839 	EXP 	text_3: autoDraw = True
+203.3945 	EXP 	text_3: autoDraw = False
+203.3945 	EXP 	text_3: autoDraw = False
+203.3945 	EXP 	image_2: image = 'condition_1/blank.PNG'
+204.5855 	EXP 	image_2: autoDraw = True
+205.3859 	EXP 	image_2: autoDraw = False
+206.0539 	EXP 	New trial (rep=1, index=8): {'stimuli': 1, 'star': 'condition_1/rightstar.PNG', 'CorrectAns': 'right'}
+206.1059 	DATA 	Keypress: space
+206.1106 	EXP 	image_2: autoDraw = False
+206.1106 	EXP 	image_3: image = 'condition_1/fixation.png'
+206.1106 	EXP 	image_3: autoDraw = True
+206.5842 	EXP 	image_3: autoDraw = False
+206.5842 	EXP 	text_3: height = 0.2
+206.5842 	EXP 	text_3: height = 0.2
+206.5842 	EXP 	text_3: height = 0.2
+206.5842 	EXP 	text_3: text = 1
+207.0675 	EXP 	text_3: autoDraw = True
+207.5940 	EXP 	text_3: autoDraw = False
+207.5940 	EXP 	text_3: autoDraw = False
+207.5940 	EXP 	image_2: image = 'condition_1/rightstar.PNG'
+208.6695 	EXP 	image_2: autoDraw = True
+209.0556 	EXP 	New trial (rep=1, index=9): {'stimuli': 2, 'star': 'condition_1/rightstar.PNG', 'CorrectAns': 'left'}
+209.1080 	DATA 	Keypress: right
+209.1129 	EXP 	image_2: autoDraw = False
+209.1129 	EXP 	image_3: image = 'condition_1/fixation.png'
+209.1129 	EXP 	image_3: autoDraw = True
+209.5916 	EXP 	image_3: autoDraw = False
+209.5916 	EXP 	text_3: height = 0.2
+209.5916 	EXP 	text_3: height = 0.2
+209.5916 	EXP 	text_3: height = 0.2
+209.5916 	EXP 	text_3: text = 2
+210.0674 	EXP 	text_3: autoDraw = True
+210.4710 	EXP 	text_3: autoDraw = False
+210.4710 	EXP 	text_3: autoDraw = False
+210.4710 	EXP 	image_2: image = 'condition_1/rightstar.PNG'
+211.6694 	EXP 	image_2: autoDraw = True
+212.1890 	EXP 	New trial (rep=1, index=10): {'stimuli': 2, 'star': 'condition_1/rightstar.PNG', 'CorrectAns': 'right'}
+212.2555 	DATA 	Keypress: right
+212.2603 	EXP 	image_2: autoDraw = False
+212.2603 	EXP 	image_3: image = 'condition_1/fixation.png'
+212.2603 	EXP 	image_3: autoDraw = True
+212.7177 	EXP 	image_3: autoDraw = False
+212.7177 	EXP 	text_3: height = 0.2
+212.7177 	EXP 	text_3: height = 0.2
+212.7177 	EXP 	text_3: height = 0.2
+212.7177 	EXP 	text_3: text = 2
+213.2007 	EXP 	text_3: autoDraw = True
+213.6283 	EXP 	text_3: autoDraw = False
+213.6283 	EXP 	text_3: autoDraw = False
+213.6283 	EXP 	image_2: image = 'condition_1/rightstar.PNG'
+214.8029 	EXP 	image_2: autoDraw = True
+215.2357 	EXP 	New trial (rep=1, index=11): {'stimuli': 9, 'star': 'condition_1/leftstar.PNG', 'CorrectAns': 'space'}
+215.2900 	DATA 	Keypress: right
+215.2945 	EXP 	image_2: autoDraw = False
+215.2945 	EXP 	image_3: image = 'condition_1/fixation.png'
+215.2945 	EXP 	image_3: autoDraw = True
+215.7673 	EXP 	image_3: autoDraw = False
+215.7673 	EXP 	text_3: height = 0.2
+215.7673 	EXP 	text_3: height = 0.2
+215.7673 	EXP 	text_3: height = 0.2
+215.7673 	EXP 	text_3: text = 9
+216.2507 	EXP 	text_3: autoDraw = True
+216.6734 	EXP 	text_3: autoDraw = False
+216.6734 	EXP 	text_3: autoDraw = False
+216.6734 	EXP 	image_2: image = 'condition_1/leftstar.PNG'
+217.8528 	EXP 	image_2: autoDraw = True
+217.9873 	EXP 	New trial (rep=1, index=12): {'stimuli': 8, 'star': 'condition_1/rightstar.PNG', 'CorrectAns': 'space'}
+218.0379 	DATA 	Keypress: space
+218.0425 	EXP 	image_2: autoDraw = False
+218.0425 	EXP 	image_3: image = 'condition_1/fixation.png'
+218.0425 	EXP 	image_3: autoDraw = True
+218.5174 	EXP 	image_3: autoDraw = False
+218.5174 	EXP 	text_3: height = 0.2
+218.5174 	EXP 	text_3: height = 0.2
+218.5174 	EXP 	text_3: height = 0.2
+218.5174 	EXP 	text_3: text = 8
+219.0010 	EXP 	text_3: autoDraw = True
+219.4488 	EXP 	text_3: autoDraw = False
+219.4488 	EXP 	text_3: autoDraw = False
+219.4488 	EXP 	image_2: image = 'condition_1/rightstar.PNG'
+220.4694 	DATA 	Keypress: space
+220.6032 	EXP 	image_2: autoDraw = True
+221.3869 	EXP 	New trial (rep=1, index=13): {'stimuli': 8, 'star': 'condition_1/rightstar.PNG', 'CorrectAns': 'space'}
+221.4387 	DATA 	Keypress: space
+221.4435 	EXP 	image_2: autoDraw = False
+221.4435 	EXP 	image_3: image = 'condition_1/fixation.png'
+221.4435 	EXP 	image_3: autoDraw = True
+221.9172 	EXP 	image_3: autoDraw = False
+221.9172 	EXP 	text_3: height = 0.2
+221.9172 	EXP 	text_3: height = 0.2
+221.9172 	EXP 	text_3: height = 0.2
+221.9172 	EXP 	text_3: text = 8
+222.4006 	EXP 	text_3: autoDraw = True
+222.8213 	EXP 	text_3: autoDraw = False
+222.8213 	EXP 	text_3: autoDraw = False
+222.8213 	EXP 	image_2: image = 'condition_1/rightstar.PNG'
+224.0026 	EXP 	image_2: autoDraw = True
+224.5399 	EXP 	New trial (rep=1, index=14): {'stimuli': 2, 'star': 'condition_1/blank.PNG', 'CorrectAns': 'space'}
+224.5922 	DATA 	Keypress: space
+224.5969 	EXP 	image_2: autoDraw = False
+224.5969 	EXP 	image_3: image = 'condition_1/fixation.png'
+224.5969 	EXP 	image_3: autoDraw = True
+225.0675 	EXP 	image_3: autoDraw = False
+225.0675 	EXP 	text_3: height = 0.2
+225.0675 	EXP 	text_3: height = 0.2
+225.0675 	EXP 	text_3: height = 0.2
+225.0675 	EXP 	text_3: text = 2
+225.5509 	EXP 	text_3: autoDraw = True
+225.9316 	EXP 	text_3: autoDraw = False
+225.9316 	EXP 	text_3: autoDraw = False
+225.9316 	EXP 	image_2: image = 'condition_1/blank.PNG'
+227.1522 	EXP 	image_2: autoDraw = True
+227.9504 	EXP 	image_2: autoDraw = False
+229.0371 	EXP 	New trial (rep=1, index=15): {'stimuli': 8, 'star': 'condition_1/leftstar.PNG', 'CorrectAns': 'space'}
+229.0905 	DATA 	Keypress: space
+229.0958 	EXP 	image_2: autoDraw = False
+229.0958 	EXP 	image_3: image = 'condition_1/fixation.png'
+229.0958 	EXP 	image_3: autoDraw = True
+229.5803 	EXP 	image_3: autoDraw = False
+229.5803 	EXP 	text_3: height = 0.2
+229.5803 	EXP 	text_3: height = 0.2
+229.5803 	EXP 	text_3: height = 0.2
+229.5803 	EXP 	text_3: text = 8
+230.0508 	EXP 	text_3: autoDraw = True
+230.5856 	EXP 	text_3: autoDraw = False
+230.5856 	EXP 	text_3: autoDraw = False
+230.5856 	EXP 	image_2: image = 'condition_1/leftstar.PNG'
+231.6527 	EXP 	image_2: autoDraw = True
+232.4671 	EXP 	image_2: autoDraw = False
+232.5704 	EXP 	New trial (rep=1, index=16): {'stimuli': 8, 'star': 'condition_1/rightstar.PNG', 'CorrectAns': 'space'}
+232.6196 	DATA 	Keypress: space
+232.6241 	EXP 	image_2: autoDraw = False
+232.6241 	EXP 	image_3: image = 'condition_1/fixation.png'
+232.6241 	EXP 	image_3: autoDraw = True
+233.1006 	EXP 	image_3: autoDraw = False
+233.1006 	EXP 	text_3: height = 0.2
+233.1006 	EXP 	text_3: height = 0.2
+233.1006 	EXP 	text_3: height = 0.2
+233.1006 	EXP 	text_3: text = 8
+233.5842 	EXP 	text_3: autoDraw = True
+234.0011 	EXP 	text_3: autoDraw = False
+234.0011 	EXP 	text_3: autoDraw = False
+234.0011 	EXP 	image_2: image = 'condition_1/rightstar.PNG'
+235.1864 	EXP 	image_2: autoDraw = True
+235.6540 	EXP 	New trial (rep=1, index=17): {'stimuli': 8, 'star': 'condition_1/blank.PNG', 'CorrectAns': 'space'}
+235.7142 	DATA 	Keypress: space
+235.7186 	EXP 	image_2: autoDraw = False
+235.7186 	EXP 	image_3: image = 'condition_1/fixation.png'
+235.7186 	EXP 	image_3: autoDraw = True
+236.1838 	EXP 	image_3: autoDraw = False
+236.1838 	EXP 	text_3: height = 0.2
+236.1838 	EXP 	text_3: height = 0.2
+236.1838 	EXP 	text_3: height = 0.2
+236.1838 	EXP 	text_3: text = 8
+236.6672 	EXP 	text_3: autoDraw = True
+237.0426 	EXP 	text_3: autoDraw = False
+237.0426 	EXP 	text_3: autoDraw = False
+237.0426 	EXP 	image_2: image = 'condition_1/blank.PNG'
+238.2684 	EXP 	image_2: autoDraw = True
+239.0673 	EXP 	image_2: autoDraw = False
+239.6200 	EXP 	New trial (rep=1, index=18): {'stimuli': 2, 'star': 'condition_1/blank.PNG', 'CorrectAns': 'space'}
+239.6722 	DATA 	Keypress: space
+239.6781 	EXP 	image_2: autoDraw = False
+239.6781 	EXP 	image_3: image = 'condition_1/fixation.png'
+239.6781 	EXP 	image_3: autoDraw = True
+240.1509 	EXP 	image_3: autoDraw = False
+240.1509 	EXP 	text_3: height = 0.2
+240.1509 	EXP 	text_3: height = 0.2
+240.1509 	EXP 	text_3: height = 0.2
+240.1509 	EXP 	text_3: text = 2
+240.6340 	EXP 	text_3: autoDraw = True
+240.9614 	EXP 	text_3: autoDraw = False
+240.9614 	EXP 	text_3: autoDraw = False
+240.9614 	EXP 	image_2: image = 'condition_1/blank.PNG'
+242.2351 	EXP 	image_2: autoDraw = True
+243.0340 	EXP 	image_2: autoDraw = False
+243.3700 	EXP 	New trial (rep=1, index=19): {'stimuli': 8, 'star': 'condition_1/leftstar.PNG', 'CorrectAns': 'space'}
+243.4368 	DATA 	Keypress: space
+243.4412 	EXP 	image_2: autoDraw = False
+243.4412 	EXP 	image_3: image = 'condition_1/fixation.png'
+243.4412 	EXP 	image_3: autoDraw = True
+243.9004 	EXP 	image_3: autoDraw = False
+243.9004 	EXP 	text_3: height = 0.2
+243.9004 	EXP 	text_3: height = 0.2
+243.9004 	EXP 	text_3: height = 0.2
+243.9004 	EXP 	text_3: text = 8
+244.3843 	EXP 	text_3: autoDraw = True
+244.9374 	EXP 	text_3: autoDraw = False
+244.9374 	EXP 	text_3: autoDraw = False
+244.9374 	EXP 	image_2: image = 'condition_1/leftstar.PNG'
+245.9863 	EXP 	image_2: autoDraw = True
+246.8007 	EXP 	image_2: autoDraw = False
+246.8204 	EXP 	New trial (rep=1, index=20): {'stimuli': 1, 'star': 'condition_1/rightstar.PNG', 'CorrectAns': 'right'}
+246.8977 	DATA 	Keypress: space
+246.9022 	EXP 	image_2: autoDraw = False
+246.9022 	EXP 	image_3: image = 'condition_1/fixation.png'
+246.9022 	EXP 	image_3: autoDraw = True
+247.3504 	EXP 	image_3: autoDraw = False
+247.3504 	EXP 	text_3: height = 0.2
+247.3504 	EXP 	text_3: height = 0.2
+247.3504 	EXP 	text_3: height = 0.2
+247.3504 	EXP 	text_3: text = 1
+247.8344 	EXP 	text_3: autoDraw = True
+248.2420 	EXP 	text_3: autoDraw = False
+248.2420 	EXP 	text_3: autoDraw = False
+248.2420 	EXP 	image_2: image = 'condition_1/rightstar.PNG'
+249.4362 	EXP 	image_2: autoDraw = True
+249.9707 	EXP 	New trial (rep=1, index=21): {'stimuli': 2, 'star': 'condition_1/leftstar.PNG', 'CorrectAns': 'left'}
+250.0233 	DATA 	Keypress: right
+250.0277 	EXP 	image_2: autoDraw = False
+250.0277 	EXP 	image_3: image = 'condition_1/fixation.png'
+250.0277 	EXP 	image_3: autoDraw = True
+250.5121 	EXP 	image_3: autoDraw = False
+250.5121 	EXP 	text_3: height = 0.2
+250.5121 	EXP 	text_3: height = 0.2
+250.5121 	EXP 	text_3: height = 0.2
+250.5121 	EXP 	text_3: text = 2
+250.9838 	EXP 	text_3: autoDraw = True
+251.3876 	EXP 	text_3: autoDraw = False
+251.3876 	EXP 	text_3: autoDraw = False
+251.3876 	EXP 	image_2: image = 'condition_1/leftstar.PNG'
+252.5864 	EXP 	image_2: autoDraw = True
+252.9885 	DATA 	Keypress: left
+253.0047 	EXP 	New trial (rep=1, index=22): {'stimuli': 9, 'star': 'condition_1/blank.PNG', 'CorrectAns': 'space'}
+253.0562 	EXP 	image_2: autoDraw = False
+253.0562 	EXP 	image_3: image = 'condition_1/fixation.png'
+253.0562 	EXP 	image_3: autoDraw = True
+253.5341 	EXP 	image_3: autoDraw = False
+253.5341 	EXP 	text_3: height = 0.2
+253.5341 	EXP 	text_3: height = 0.2
+253.5341 	EXP 	text_3: height = 0.2
+253.5341 	EXP 	text_3: text = 9
+254.0174 	EXP 	text_3: autoDraw = True
+254.3886 	EXP 	text_3: autoDraw = False
+254.3886 	EXP 	text_3: autoDraw = False
+254.3886 	EXP 	image_2: image = 'condition_1/blank.PNG'
+255.6184 	EXP 	image_2: autoDraw = True
+256.4177 	EXP 	image_2: autoDraw = False
+256.8368 	EXP 	New trial (rep=1, index=23): {'stimuli': 1, 'star': 'condition_1/rightstar.PNG', 'CorrectAns': 'right'}
+256.8972 	DATA 	Keypress: space
+256.9018 	EXP 	image_2: autoDraw = False
+256.9018 	EXP 	image_3: image = 'condition_1/fixation.png'
+256.9018 	EXP 	image_3: autoDraw = True
+257.3671 	EXP 	image_3: autoDraw = False
+257.3671 	EXP 	text_3: height = 0.2
+257.3671 	EXP 	text_3: height = 0.2
+257.3671 	EXP 	text_3: height = 0.2
+257.3671 	EXP 	text_3: text = 1
+257.8506 	EXP 	text_3: autoDraw = True
+258.3789 	EXP 	text_3: autoDraw = False
+258.3789 	EXP 	text_3: autoDraw = False
+258.3789 	EXP 	image_2: image = 'condition_1/rightstar.PNG'
+259.4527 	EXP 	image_2: autoDraw = True
+259.8038 	EXP 	New trial (rep=1, index=24): {'stimuli': 9, 'star': 'condition_1/rightstar.PNG', 'CorrectAns': 'space'}
+259.8592 	DATA 	Keypress: right
+259.8658 	EXP 	image_2: autoDraw = False
+259.8658 	EXP 	image_3: image = 'condition_1/fixation.png'
+259.8658 	EXP 	image_3: autoDraw = True
+260.3340 	EXP 	image_3: autoDraw = False
+260.3340 	EXP 	text_3: height = 0.2
+260.3340 	EXP 	text_3: height = 0.2
+260.3340 	EXP 	text_3: height = 0.2
+260.3340 	EXP 	text_3: text = 9
+260.8172 	EXP 	text_3: autoDraw = True
+261.2283 	EXP 	text_3: autoDraw = False
+261.2283 	EXP 	text_3: autoDraw = False
+261.2283 	EXP 	image_2: image = 'condition_1/rightstar.PNG'
+262.4196 	EXP 	image_2: autoDraw = True
+262.9951 	DATA 	Keypress: space
+263.0008 	EXP 	image_2: autoDraw = False
+263.0008 	EXP 	text_10: autoDraw = True
+268.4898 	DATA 	Keypress: space
+268.5173 	EXP 	text_10: autoDraw = False
+268.5173 	EXP 	text_7: autoDraw = True
+278.4090 	EXP 	Imported test2/data4.xlsx as conditions, 6 conditions, 3 params
+278.4095 	EXP 	Created sequence: random, trialTypes=6, nReps=1, seed=None
+278.4096 	EXP 	New trial (rep=0, index=0): {'stimuli': 2, 'star': 'test2/leftstar.PNG', 'CorrectAns': 'space'}
+278.5023 	DATA 	Keypress: space
+278.5084 	EXP 	text_7: autoDraw = False
+278.5084 	EXP 	image_8: image = 'test2/fixation.png'
+278.5084 	EXP 	image_8: autoDraw = True
+278.9171 	EXP 	image_8: autoDraw = False
+278.9171 	EXP 	text_11: height = 0.05
+278.9171 	EXP 	text_11: height = 0.05
+278.9171 	EXP 	text_11: height = 0.05
+278.9171 	EXP 	text_11: text = 2
+279.4007 	EXP 	text_11: autoDraw = True
+279.9463 	EXP 	text_11: autoDraw = False
+279.9463 	EXP 	text_11: autoDraw = False
+279.9463 	EXP 	image_9: image = 'test2/leftstar.PNG'
+281.0130 	EXP 	image_9: autoDraw = True
+281.6044 	EXP 	New trial (rep=0, index=1): {'stimuli': 8, 'star': 'test2/rightstar.PNG', 'CorrectAns': 'right'}
+281.6550 	DATA 	Keypress: space
+281.6593 	EXP 	image_9: autoDraw = False
+281.6593 	EXP 	image_8: image = 'test2/fixation.png'
+281.6593 	EXP 	image_8: autoDraw = True
+282.1341 	EXP 	image_8: autoDraw = False
+282.1341 	EXP 	text_11: height = 0.05
+282.1341 	EXP 	text_11: height = 0.05
+282.1341 	EXP 	text_11: height = 0.05
+282.1341 	EXP 	text_11: text = 8
+282.6174 	EXP 	text_11: autoDraw = True
+283.0484 	EXP 	text_11: autoDraw = False
+283.0484 	EXP 	text_11: autoDraw = False
+283.0484 	EXP 	image_9: image = 'test2/rightstar.PNG'
+284.2196 	EXP 	image_9: autoDraw = True
+284.6385 	EXP 	New trial (rep=0, index=2): {'stimuli': 1, 'star': 'test2/leftstar.PNG', 'CorrectAns': 'space'}
+284.6855 	DATA 	Keypress: right
+284.6895 	EXP 	image_9: autoDraw = False
+284.6895 	EXP 	image_8: image = 'test2/fixation.png'
+284.6895 	EXP 	image_8: autoDraw = True
+285.1673 	EXP 	image_8: autoDraw = False
+285.1673 	EXP 	text_11: height = 0.05
+285.1673 	EXP 	text_11: height = 0.05
+285.1673 	EXP 	text_11: height = 0.05
+285.1673 	EXP 	text_11: text = 1
+285.6506 	EXP 	text_11: autoDraw = True
+286.0563 	EXP 	text_11: autoDraw = False
+286.0563 	EXP 	text_11: autoDraw = False
+286.0563 	EXP 	image_9: image = 'test2/leftstar.PNG'
+287.2530 	EXP 	image_9: autoDraw = True
+287.6704 	EXP 	New trial (rep=0, index=3): {'stimuli': 9, 'star': 'test2/rightstar.PNG', 'CorrectAns': 'right'}
+287.7224 	DATA 	Keypress: space
+287.7274 	EXP 	image_9: autoDraw = False
+287.7274 	EXP 	image_8: image = 'test2/fixation.png'
+287.7274 	EXP 	image_8: autoDraw = True
+288.2067 	EXP 	image_8: autoDraw = False
+288.2067 	EXP 	text_11: height = 0.05
+288.2067 	EXP 	text_11: height = 0.05
+288.2067 	EXP 	text_11: height = 0.05
+288.2067 	EXP 	text_11: text = 9
+288.6839 	EXP 	text_11: autoDraw = True
+289.0903 	EXP 	text_11: autoDraw = False
+289.0903 	EXP 	text_11: autoDraw = False
+289.0903 	EXP 	image_9: image = 'test2/rightstar.PNG'
+290.2864 	EXP 	image_9: autoDraw = True
+290.6713 	EXP 	New trial (rep=0, index=4): {'stimuli': 1, 'star': 'test2/blank.PNG', 'CorrectAns': 'space'}
+290.7286 	DATA 	Keypress: right
+290.7333 	EXP 	image_9: autoDraw = False
+290.7333 	EXP 	image_8: image = 'test2/fixation.png'
+290.7333 	EXP 	image_8: autoDraw = True
+291.2008 	EXP 	image_8: autoDraw = False
+291.2008 	EXP 	text_11: height = 0.05
+291.2008 	EXP 	text_11: height = 0.05
+291.2008 	EXP 	text_11: height = 0.05
+291.2008 	EXP 	text_11: text = 1
+291.6844 	EXP 	text_11: autoDraw = True
+292.0952 	EXP 	text_11: autoDraw = False
+292.0952 	EXP 	text_11: autoDraw = False
+292.0952 	EXP 	image_9: image = 'test2/blank.PNG'
+293.2855 	EXP 	image_9: autoDraw = True
+294.0840 	EXP 	image_9: autoDraw = False
+294.5864 	EXP 	New trial (rep=0, index=5): {'stimuli': 8, 'star': 'test2/leftstar.PNG', 'CorrectAns': 'left'}
+294.6324 	DATA 	Keypress: space
+294.6371 	EXP 	image_9: autoDraw = False
+294.6371 	EXP 	image_8: image = 'test2/fixation.png'
+294.6371 	EXP 	image_8: autoDraw = True
+295.1173 	EXP 	image_8: autoDraw = False
+295.1173 	EXP 	text_11: height = 0.05
+295.1173 	EXP 	text_11: height = 0.05
+295.1173 	EXP 	text_11: height = 0.05
+295.1173 	EXP 	text_11: text = 8
+295.6005 	EXP 	text_11: autoDraw = True
+296.1257 	EXP 	text_11: autoDraw = False
+296.1257 	EXP 	text_11: autoDraw = False
+296.1257 	EXP 	image_9: image = 'test2/leftstar.PNG'
+297.2025 	EXP 	image_9: autoDraw = True
+297.5786 	DATA 	Keypress: space
+297.5838 	EXP 	image_9: autoDraw = False
+297.5838 	EXP 	text_12: autoDraw = True
+298.5842 	EXP 	text_12: autoDraw = False
+300.8197 	DATA 	Keypress: space
+300.8505 	EXP 	text_12: autoDraw = False
+300.8505 	EXP 	text_13: autoDraw = True
+301.8505 	EXP 	text_13: autoDraw = False
+306.1706 	EXP 	Imported condition_2/data2.xlsx as conditions, 25 conditions, 3 params
+306.1711 	EXP 	Created sequence: random, trialTypes=25, nReps=2, seed=None
+306.1713 	EXP 	New trial (rep=0, index=0): {'stimuli': 8, 'star': 'condition_2/rightstar.PNG', 'CorrectAns': 'right'}
+306.2313 	DATA 	Keypress: space
+306.2394 	EXP 	text_13: autoDraw = False
+306.2394 	EXP 	image_4: image = 'condition_2/fixation.png'
+306.2394 	EXP 	image_4: autoDraw = True
+306.6840 	EXP 	image_4: autoDraw = False
+306.6840 	EXP 	text: height = 0.2
+306.6840 	EXP 	text: height = 0.2
+306.6840 	EXP 	text: height = 0.2
+306.6840 	EXP 	text: text = 8
+307.1672 	EXP 	text: autoDraw = True
+307.7721 	EXP 	text: autoDraw = False
+307.7721 	EXP 	text: autoDraw = False
+307.7721 	EXP 	image_5: image = 'condition_2/rightstar.PNG'
+308.7816 	EXP 	image_5: autoDraw = True
+309.1449 	EXP 	New trial (rep=0, index=1): {'stimuli': 9, 'star': 'condition_2/rightstar.PNG', 'CorrectAns': 'right'}
+309.1922 	DATA 	Keypress: right
+309.1984 	EXP 	image_5: autoDraw = False
+309.1984 	EXP 	image_4: image = 'condition_2/fixation.png'
+309.1984 	EXP 	image_4: autoDraw = True
+309.6675 	EXP 	image_4: autoDraw = False
+309.6675 	EXP 	text: height = 0.2
+309.6675 	EXP 	text: height = 0.2
+309.6675 	EXP 	text: height = 0.2
+309.6675 	EXP 	text: text = 9
+310.1505 	EXP 	text: autoDraw = True
+310.5761 	EXP 	text: autoDraw = False
+310.5761 	EXP 	text: autoDraw = False
+310.5761 	EXP 	image_5: image = 'condition_2/rightstar.PNG'
+311.7529 	EXP 	image_5: autoDraw = True
+312.5671 	EXP 	image_5: autoDraw = False
+313.2870 	EXP 	New trial (rep=0, index=2): {'stimuli': 8, 'star': 'condition_2/rightstar.PNG', 'CorrectAns': 'right'}
+313.3388 	DATA 	Keypress: right
+313.3433 	EXP 	image_5: autoDraw = False
+313.3433 	EXP 	image_4: image = 'condition_2/fixation.png'
+313.3433 	EXP 	image_4: autoDraw = True
+313.8174 	EXP 	image_4: autoDraw = False
+313.8174 	EXP 	text: height = 0.2
+313.8174 	EXP 	text: height = 0.2
+313.8174 	EXP 	text: height = 0.2
+313.8174 	EXP 	text: text = 8
+314.3007 	EXP 	text: autoDraw = True
+314.7241 	EXP 	text: autoDraw = False
+314.7241 	EXP 	text: autoDraw = False
+314.7241 	EXP 	image_5: image = 'condition_2/rightstar.PNG'
+315.9028 	EXP 	image_5: autoDraw = True
+316.5046 	EXP 	New trial (rep=0, index=3): {'stimuli': 2, 'star': 'condition_2/leftstar.PNG', 'CorrectAns': 'space'}
+316.5587 	DATA 	Keypress: right
+316.5638 	EXP 	image_5: autoDraw = False
+316.5638 	EXP 	image_4: image = 'condition_2/fixation.png'
+316.5638 	EXP 	image_4: autoDraw = True
+317.0338 	EXP 	image_4: autoDraw = False
+317.0338 	EXP 	text: height = 0.2
+317.0338 	EXP 	text: height = 0.2
+317.0338 	EXP 	text: height = 0.2
+317.0338 	EXP 	text: text = 2
+317.5174 	EXP 	text: autoDraw = True
+317.9373 	EXP 	text: autoDraw = False
+317.9373 	EXP 	text: autoDraw = False
+317.9373 	EXP 	image_5: image = 'condition_2/leftstar.PNG'
+319.1199 	EXP 	image_5: autoDraw = True
+319.9340 	EXP 	image_5: autoDraw = False
+326.2860 	EXP 	New trial (rep=0, index=4): {'stimuli': 9, 'star': 'condition_2/leftstar.PNG', 'CorrectAns': 'left'}
+326.3456 	DATA 	Keypress: space
+326.3496 	EXP 	image_5: autoDraw = False
+326.3496 	EXP 	image_4: image = 'condition_2/fixation.png'
+326.3496 	EXP 	image_4: autoDraw = True
+326.8174 	EXP 	image_4: autoDraw = False
+326.8174 	EXP 	text: height = 0.2
+326.8174 	EXP 	text: height = 0.2
+326.8174 	EXP 	text: height = 0.2
+326.8174 	EXP 	text: text = 9
+327.3004 	EXP 	text: autoDraw = True
+327.8713 	EXP 	text: autoDraw = False
+327.8713 	EXP 	text: autoDraw = False
+327.8713 	EXP 	image_5: image = 'condition_2/leftstar.PNG'
+328.9027 	EXP 	image_5: autoDraw = True
+329.2379 	EXP 	New trial (rep=0, index=5): {'stimuli': 2, 'star': 'condition_2/leftstar.PNG', 'CorrectAns': 'space'}
+329.2854 	DATA 	Keypress: left
+329.2900 	EXP 	image_5: autoDraw = False
+329.2900 	EXP 	image_4: image = 'condition_2/fixation.png'
+329.2900 	EXP 	image_4: autoDraw = True
+329.7671 	EXP 	image_4: autoDraw = False
+329.7671 	EXP 	text: height = 0.2
+329.7671 	EXP 	text: height = 0.2
+329.7671 	EXP 	text: height = 0.2
+329.7671 	EXP 	text: text = 2
+330.2507 	EXP 	text: autoDraw = True
+330.6733 	EXP 	text: autoDraw = False
+330.6733 	EXP 	text: autoDraw = False
+330.6733 	EXP 	image_5: image = 'condition_2/leftstar.PNG'
+331.8530 	EXP 	image_5: autoDraw = True
+332.6673 	EXP 	image_5: autoDraw = False
+333.8863 	EXP 	New trial (rep=0, index=6): {'stimuli': 2, 'star': 'condition_2/rightstar.PNG', 'CorrectAns': 'space'}
+333.9370 	DATA 	Keypress: space
+333.9423 	EXP 	image_5: autoDraw = False
+333.9423 	EXP 	image_4: image = 'condition_2/fixation.png'
+333.9423 	EXP 	image_4: autoDraw = True
+334.4219 	EXP 	image_4: autoDraw = False
+334.4219 	EXP 	text: height = 0.2
+334.4219 	EXP 	text: height = 0.2
+334.4219 	EXP 	text: height = 0.2
+334.4219 	EXP 	text: text = 2
+334.9007 	EXP 	text: autoDraw = True
+335.3041 	EXP 	text: autoDraw = False
+335.3041 	EXP 	text: autoDraw = False
+335.3041 	EXP 	image_5: image = 'condition_2/rightstar.PNG'
+336.5031 	EXP 	image_5: autoDraw = True
+337.0046 	EXP 	New trial (rep=0, index=7): {'stimuli': 8, 'star': 'condition_2/blank.PNG', 'CorrectAns': 'space'}
+337.0562 	DATA 	Keypress: space
+337.0608 	EXP 	image_5: autoDraw = False
+337.0608 	EXP 	image_4: image = 'condition_2/fixation.png'
+337.0608 	EXP 	image_4: autoDraw = True
+337.5339 	EXP 	image_4: autoDraw = False
+337.5339 	EXP 	text: height = 0.2
+337.5339 	EXP 	text: height = 0.2
+337.5339 	EXP 	text: height = 0.2
+337.5339 	EXP 	text: text = 8
+338.0174 	EXP 	text: autoDraw = True
+338.4421 	EXP 	text: autoDraw = False
+338.4421 	EXP 	text: autoDraw = False
+338.4421 	EXP 	image_5: image = 'condition_2/blank.PNG'
+339.6185 	EXP 	image_5: autoDraw = True
+340.4172 	EXP 	image_5: autoDraw = False
+341.1876 	EXP 	New trial (rep=0, index=8): {'stimuli': 2, 'star': 'condition_2/rightstar.PNG', 'CorrectAns': 'space'}
+341.2333 	DATA 	Keypress: space
+341.2380 	EXP 	image_5: autoDraw = False
+341.2380 	EXP 	image_4: image = 'condition_2/fixation.png'
+341.2380 	EXP 	image_4: autoDraw = True
+341.7177 	EXP 	image_4: autoDraw = False
+341.7177 	EXP 	text: height = 0.2
+341.7177 	EXP 	text: height = 0.2
+341.7177 	EXP 	text: height = 0.2
+341.7177 	EXP 	text: text = 2
+342.2006 	EXP 	text: autoDraw = True
+342.7096 	EXP 	text: autoDraw = False
+342.7096 	EXP 	text: autoDraw = False
+342.7096 	EXP 	image_5: image = 'condition_2/rightstar.PNG'
+343.8030 	EXP 	image_5: autoDraw = True
+344.2541 	DATA 	Keypress: space
+344.2708 	EXP 	New trial (rep=0, index=9): {'stimuli': 1, 'star': 'condition_2/leftstar.PNG', 'CorrectAns': 'space'}
+344.3244 	EXP 	image_5: autoDraw = False
+344.3244 	EXP 	image_4: image = 'condition_2/fixation.png'
+344.3244 	EXP 	image_4: autoDraw = True
+344.8008 	EXP 	image_4: autoDraw = False
+344.8008 	EXP 	text: height = 0.2
+344.8008 	EXP 	text: height = 0.2
+344.8008 	EXP 	text: height = 0.2
+344.8008 	EXP 	text: text = 1
+345.2838 	EXP 	text: autoDraw = True
+345.7226 	EXP 	text: autoDraw = False
+345.7226 	EXP 	text: autoDraw = False
+345.7226 	EXP 	image_5: image = 'condition_2/leftstar.PNG'
+346.8861 	EXP 	image_5: autoDraw = True
+347.2717 	EXP 	New trial (rep=0, index=10): {'stimuli': 1, 'star': 'condition_2/blank.PNG', 'CorrectAns': 'space'}
+347.3283 	DATA 	Keypress: space
+347.3332 	EXP 	image_5: autoDraw = False
+347.3332 	EXP 	image_4: image = 'condition_2/fixation.png'
+347.3332 	EXP 	image_4: autoDraw = True
+347.8006 	EXP 	image_4: autoDraw = False
+347.8006 	EXP 	text: height = 0.2
+347.8006 	EXP 	text: height = 0.2
+347.8006 	EXP 	text: height = 0.2
+347.8006 	EXP 	text: text = 1
+348.2841 	EXP 	text: autoDraw = True
+348.6554 	EXP 	text: autoDraw = False
+348.6554 	EXP 	text: autoDraw = False
+348.6554 	EXP 	image_5: image = 'condition_2/blank.PNG'
+349.8854 	EXP 	image_5: autoDraw = True
+350.6369 	EXP 	New trial (rep=0, index=11): {'stimuli': 9, 'star': 'condition_2/leftstar.PNG', 'CorrectAns': 'left'}
+350.7140 	DATA 	Keypress: space
+350.7185 	EXP 	image_5: autoDraw = False
+350.7185 	EXP 	image_4: image = 'condition_2/fixation.png'
+350.7185 	EXP 	image_4: autoDraw = True
+351.1672 	EXP 	image_4: autoDraw = False
+351.1672 	EXP 	text: height = 0.2
+351.1672 	EXP 	text: height = 0.2
+351.1672 	EXP 	text: height = 0.2
+351.1672 	EXP 	text: text = 9
+351.6505 	EXP 	text: autoDraw = True
+352.1939 	EXP 	text: autoDraw = False
+352.1939 	EXP 	text: autoDraw = False
+352.1939 	EXP 	image_5: image = 'condition_2/leftstar.PNG'
+353.2528 	EXP 	image_5: autoDraw = True
+353.6549 	EXP 	New trial (rep=0, index=12): {'stimuli': 1, 'star': 'condition_2/leftstar.PNG', 'CorrectAns': 'space'}
+353.7099 	DATA 	Keypress: left
+353.7152 	EXP 	image_5: autoDraw = False
+353.7152 	EXP 	image_4: image = 'condition_2/fixation.png'
+353.7152 	EXP 	image_4: autoDraw = True
+354.1964 	EXP 	image_4: autoDraw = False
+354.1964 	EXP 	text: height = 0.2
+354.1964 	EXP 	text: height = 0.2
+354.1964 	EXP 	text: height = 0.2
+354.1964 	EXP 	text: text = 1
+354.6672 	EXP 	text: autoDraw = True
+355.0685 	EXP 	text: autoDraw = False
+355.0685 	EXP 	text: autoDraw = False
+355.0685 	EXP 	image_5: image = 'condition_2/leftstar.PNG'
+356.2697 	EXP 	image_5: autoDraw = True
+356.7377 	EXP 	New trial (rep=0, index=13): {'stimuli': 8, 'star': 'condition_2/rightstar.PNG', 'CorrectAns': 'right'}
+356.7854 	DATA 	Keypress: space
+356.7926 	EXP 	image_5: autoDraw = False
+356.7926 	EXP 	image_4: image = 'condition_2/fixation.png'
+356.7926 	EXP 	image_4: autoDraw = True
+357.2675 	EXP 	image_4: autoDraw = False
+357.2675 	EXP 	text: height = 0.2
+357.2675 	EXP 	text: height = 0.2
+357.2675 	EXP 	text: height = 0.2
+357.2675 	EXP 	text: text = 8
+357.7505 	EXP 	text: autoDraw = True
+358.1616 	EXP 	text: autoDraw = False
+358.1616 	EXP 	text: autoDraw = False
+358.1616 	EXP 	image_5: image = 'condition_2/rightstar.PNG'
+359.3527 	EXP 	image_5: autoDraw = True
+359.8542 	EXP 	New trial (rep=0, index=14): {'stimuli': 1, 'star': 'condition_2/rightstar.PNG', 'CorrectAns': 'space'}
+359.9025 	DATA 	Keypress: right
+359.9071 	EXP 	image_5: autoDraw = False
+359.9071 	EXP 	image_4: image = 'condition_2/fixation.png'
+359.9071 	EXP 	image_4: autoDraw = True
+360.3843 	EXP 	image_4: autoDraw = False
+360.3843 	EXP 	text: height = 0.2
+360.3843 	EXP 	text: height = 0.2
+360.3843 	EXP 	text: height = 0.2
+360.3843 	EXP 	text: text = 1
+360.8674 	EXP 	text: autoDraw = True
+361.2749 	EXP 	text: autoDraw = False
+361.2749 	EXP 	text: autoDraw = False
+361.2749 	EXP 	image_5: image = 'condition_2/rightstar.PNG'
+362.4697 	EXP 	image_5: autoDraw = True
+363.2708 	EXP 	New trial (rep=0, index=15): {'stimuli': 8, 'star': 'condition_2/leftstar.PNG', 'CorrectAns': 'left'}
+363.3269 	DATA 	Keypress: space
+363.3314 	EXP 	image_5: autoDraw = False
+363.3314 	EXP 	image_5: autoDraw = False
+363.3314 	EXP 	image_4: image = 'condition_2/fixation.png'
+363.3314 	EXP 	image_4: autoDraw = True
+363.8005 	EXP 	image_4: autoDraw = False
+363.8005 	EXP 	text: height = 0.2
+363.8005 	EXP 	text: height = 0.2
+363.8005 	EXP 	text: height = 0.2
+363.8005 	EXP 	text: text = 8
+364.2844 	EXP 	text: autoDraw = True
+364.7010 	EXP 	text: autoDraw = False
+364.7010 	EXP 	text: autoDraw = False
+364.7010 	EXP 	image_5: image = 'condition_2/leftstar.PNG'
+365.8860 	EXP 	image_5: autoDraw = True
+366.3706 	EXP 	New trial (rep=0, index=16): {'stimuli': 2, 'star': 'condition_2/rightstar.PNG', 'CorrectAns': 'space'}
+366.4323 	DATA 	Keypress: left
+366.4370 	EXP 	image_5: autoDraw = False
+366.4370 	EXP 	image_4: image = 'condition_2/fixation.png'
+366.4370 	EXP 	image_4: autoDraw = True
+366.9003 	EXP 	image_4: autoDraw = False
+366.9003 	EXP 	text: height = 0.2
+366.9003 	EXP 	text: height = 0.2
+366.9003 	EXP 	text: height = 0.2
+366.9003 	EXP 	text: text = 2
+367.3840 	EXP 	text: autoDraw = True
+367.8090 	EXP 	text: autoDraw = False
+367.8090 	EXP 	text: autoDraw = False
+367.8090 	EXP 	image_5: image = 'condition_2/rightstar.PNG'
+368.9861 	EXP 	image_5: autoDraw = True
+369.3704 	EXP 	New trial (rep=0, index=17): {'stimuli': 9, 'star': 'condition_2/blank.PNG', 'CorrectAns': 'space'}
+369.4166 	DATA 	Keypress: space
+369.4213 	EXP 	image_5: autoDraw = False
+369.4213 	EXP 	image_4: image = 'condition_2/fixation.png'
+369.4213 	EXP 	image_4: autoDraw = True
+369.9005 	EXP 	image_4: autoDraw = False
+369.9005 	EXP 	text: height = 0.2
+369.9005 	EXP 	text: height = 0.2
+369.9005 	EXP 	text: height = 0.2
+369.9005 	EXP 	text: text = 9
+370.3841 	EXP 	text: autoDraw = True
+370.8133 	EXP 	text: autoDraw = False
+370.8133 	EXP 	text: autoDraw = False
+370.8133 	EXP 	image_5: image = 'condition_2/blank.PNG'
+371.9851 	EXP 	image_5: autoDraw = True
+372.7841 	EXP 	image_5: autoDraw = False
+374.0697 	EXP 	New trial (rep=0, index=18): {'stimuli': 8, 'star': 'condition_2/leftstar.PNG', 'CorrectAns': 'left'}
+374.1181 	DATA 	Keypress: space
+374.1229 	EXP 	image_5: autoDraw = False
+374.1229 	EXP 	image_4: image = 'condition_2/fixation.png'
+374.1229 	EXP 	image_4: autoDraw = True
+374.6094 	EXP 	image_4: autoDraw = False
+374.6094 	EXP 	text: height = 0.2
+374.6094 	EXP 	text: height = 0.2
+374.6094 	EXP 	text: height = 0.2
+374.6094 	EXP 	text: text = 8
+375.0841 	EXP 	text: autoDraw = True
+375.6124 	EXP 	text: autoDraw = False
+375.6124 	EXP 	text: autoDraw = False
+375.6124 	EXP 	image_5: image = 'condition_2/leftstar.PNG'
+376.6861 	EXP 	image_5: autoDraw = True
+377.0548 	DATA 	Keypress: left
+377.0703 	EXP 	New trial (rep=0, index=19): {'stimuli': 1, 'star': 'condition_2/leftstar.PNG', 'CorrectAns': 'space'}
+377.1214 	EXP 	image_5: autoDraw = False
+377.1214 	EXP 	image_4: image = 'condition_2/fixation.png'
+377.1214 	EXP 	image_4: autoDraw = True
+377.6007 	EXP 	image_4: autoDraw = False
+377.6007 	EXP 	text: height = 0.2
+377.6007 	EXP 	text: height = 0.2
+377.6007 	EXP 	text: height = 0.2
+377.6007 	EXP 	text: text = 1
+378.0837 	EXP 	text: autoDraw = True
+378.4834 	EXP 	text: autoDraw = False
+378.4834 	EXP 	text: autoDraw = False
+378.4834 	EXP 	image_5: image = 'condition_2/leftstar.PNG'
+379.6862 	EXP 	image_5: autoDraw = True
+380.2045 	DATA 	Keypress: space
+380.2212 	EXP 	New trial (rep=0, index=20): {'stimuli': 9, 'star': 'condition_2/leftstar.PNG', 'CorrectAns': 'left'}
+380.2768 	EXP 	image_5: autoDraw = False
+380.2768 	EXP 	image_4: image = 'condition_2/fixation.png'
+380.2768 	EXP 	image_4: autoDraw = True
+380.7506 	EXP 	image_4: autoDraw = False
+380.7506 	EXP 	text: height = 0.2
+380.7506 	EXP 	text: height = 0.2
+380.7506 	EXP 	text: height = 0.2
+380.7506 	EXP 	text: text = 9
+381.2338 	EXP 	text: autoDraw = True
+381.6587 	EXP 	text: autoDraw = False
+381.6587 	EXP 	text: autoDraw = False
+381.6587 	EXP 	image_5: image = 'condition_2/leftstar.PNG'
+382.8362 	EXP 	image_5: autoDraw = True
+383.2872 	EXP 	New trial (rep=0, index=21): {'stimuli': 2, 'star': 'condition_2/blank.PNG', 'CorrectAns': 'space'}
+383.3468 	DATA 	Keypress: left
+383.3513 	EXP 	image_5: autoDraw = False
+383.3513 	EXP 	image_4: image = 'condition_2/fixation.png'
+383.3513 	EXP 	image_4: autoDraw = True
+383.8173 	EXP 	image_4: autoDraw = False
+383.8173 	EXP 	text: height = 0.2
+383.8173 	EXP 	text: height = 0.2
+383.8173 	EXP 	text: height = 0.2
+383.8173 	EXP 	text: text = 2
+384.3003 	EXP 	text: autoDraw = True
+384.6688 	EXP 	text: autoDraw = False
+384.6688 	EXP 	text: autoDraw = False
+384.6688 	EXP 	image_5: image = 'condition_2/blank.PNG'
+385.9017 	EXP 	image_5: autoDraw = True
+386.5548 	EXP 	New trial (rep=0, index=22): {'stimuli': 8, 'star': 'condition_2/blank.PNG', 'CorrectAns': 'space'}
+386.6114 	DATA 	Keypress: space
+386.6158 	EXP 	image_5: autoDraw = False
+386.6158 	EXP 	image_4: image = 'condition_2/fixation.png'
+386.6158 	EXP 	image_4: autoDraw = True
+387.0837 	EXP 	image_4: autoDraw = False
+387.0837 	EXP 	text: height = 0.2
+387.0837 	EXP 	text: height = 0.2
+387.0837 	EXP 	text: height = 0.2
+387.0837 	EXP 	text: text = 8
+387.5672 	EXP 	text: autoDraw = True
+387.9021 	EXP 	text: autoDraw = False
+387.9021 	EXP 	text: autoDraw = False
+387.9021 	EXP 	image_5: image = 'condition_2/blank.PNG'
+389.1682 	EXP 	image_5: autoDraw = True
+389.9671 	EXP 	image_5: autoDraw = False
+391.1045 	EXP 	New trial (rep=0, index=23): {'stimuli': 1, 'star': 'condition_2/rightstar.PNG', 'CorrectAns': 'space'}
+391.1524 	DATA 	Keypress: space
+391.1572 	EXP 	image_5: autoDraw = False
+391.1572 	EXP 	image_4: image = 'condition_2/fixation.png'
+391.1572 	EXP 	image_4: autoDraw = True
+391.6339 	EXP 	image_4: autoDraw = False
+391.6339 	EXP 	text: height = 0.2
+391.6339 	EXP 	text: height = 0.2
+391.6339 	EXP 	text: height = 0.2
+391.6339 	EXP 	text: text = 1
+392.1171 	EXP 	text: autoDraw = True
+392.6905 	EXP 	text: autoDraw = False
+392.6905 	EXP 	text: autoDraw = False
+392.6905 	EXP 	image_5: image = 'condition_2/rightstar.PNG'
+393.7193 	EXP 	image_5: autoDraw = True
+394.5339 	EXP 	image_5: autoDraw = False
+394.8039 	EXP 	New trial (rep=0, index=24): {'stimuli': 9, 'star': 'condition_2/rightstar.PNG', 'CorrectAns': 'right'}
+394.8566 	DATA 	Keypress: space
+394.8612 	EXP 	image_5: autoDraw = False
+394.8612 	EXP 	image_4: image = 'condition_2/fixation.png'
+394.8612 	EXP 	image_4: autoDraw = True
+395.3531 	EXP 	image_4: autoDraw = False
+395.3531 	EXP 	text: height = 0.2
+395.3531 	EXP 	text: height = 0.2
+395.3531 	EXP 	text: height = 0.2
+395.3531 	EXP 	text: text = 9
+395.8173 	EXP 	text: autoDraw = True
+396.2222 	EXP 	text: autoDraw = False
+396.2222 	EXP 	text: autoDraw = False
+396.2222 	EXP 	image_5: image = 'condition_2/rightstar.PNG'
+397.4194 	EXP 	image_5: autoDraw = True
+397.9216 	DATA 	Keypress: right
+397.9378 	EXP 	New trial (rep=1, index=0): {'stimuli': 9, 'star': 'condition_2/leftstar.PNG', 'CorrectAns': 'left'}
+397.9930 	EXP 	image_5: autoDraw = False
+397.9930 	EXP 	image_4: image = 'condition_2/fixation.png'
+397.9930 	EXP 	image_4: autoDraw = True
+398.4669 	EXP 	image_4: autoDraw = False
+398.4669 	EXP 	text: height = 0.2
+398.4669 	EXP 	text: height = 0.2
+398.4669 	EXP 	text: height = 0.2
+398.4669 	EXP 	text: text = 9
+398.9507 	EXP 	text: autoDraw = True
+399.3618 	EXP 	text: autoDraw = False
+399.3618 	EXP 	text: autoDraw = False
+399.3618 	EXP 	image_5: image = 'condition_2/leftstar.PNG'
+400.5527 	EXP 	image_5: autoDraw = True
+401.0054 	DATA 	Keypress: left
+401.0206 	EXP 	New trial (rep=1, index=1): {'stimuli': 9, 'star': 'condition_2/leftstar.PNG', 'CorrectAns': 'left'}
+401.0791 	EXP 	image_5: autoDraw = False
+401.0791 	EXP 	image_4: image = 'condition_2/fixation.png'
+401.0791 	EXP 	image_4: autoDraw = True
+401.5508 	EXP 	image_4: autoDraw = False
+401.5508 	EXP 	text: height = 0.2
+401.5508 	EXP 	text: height = 0.2
+401.5508 	EXP 	text: height = 0.2
+401.5508 	EXP 	text: text = 9
+402.0341 	EXP 	text: autoDraw = True
+402.4449 	EXP 	text: autoDraw = False
+402.4449 	EXP 	text: autoDraw = False
+402.4449 	EXP 	image_5: image = 'condition_2/leftstar.PNG'
+403.6360 	EXP 	image_5: autoDraw = True
+404.1206 	EXP 	New trial (rep=1, index=2): {'stimuli': 8, 'star': 'condition_2/rightstar.PNG', 'CorrectAns': 'right'}
+404.1666 	DATA 	Keypress: left
+404.1710 	EXP 	image_5: autoDraw = False
+404.1710 	EXP 	image_4: image = 'condition_2/fixation.png'
+404.1710 	EXP 	image_4: autoDraw = True
+404.6506 	EXP 	image_4: autoDraw = False
+404.6506 	EXP 	text: height = 0.2
+404.6506 	EXP 	text: height = 0.2
+404.6506 	EXP 	text: height = 0.2
+404.6506 	EXP 	text: text = 8
+405.1337 	EXP 	text: autoDraw = True
+405.5413 	EXP 	text: autoDraw = False
+405.5413 	EXP 	text: autoDraw = False
+405.5413 	EXP 	image_5: image = 'condition_2/rightstar.PNG'
+406.7359 	EXP 	image_5: autoDraw = True
+407.1207 	EXP 	New trial (rep=1, index=3): {'stimuli': 9, 'star': 'condition_2/leftstar.PNG', 'CorrectAns': 'left'}
+407.1684 	DATA 	Keypress: right
+407.1729 	EXP 	image_5: autoDraw = False
+407.1729 	EXP 	image_4: image = 'condition_2/fixation.png'
+407.1729 	EXP 	image_4: autoDraw = True
+407.6505 	EXP 	image_4: autoDraw = False
+407.6505 	EXP 	text: height = 0.2
+407.6505 	EXP 	text: height = 0.2
+407.6505 	EXP 	text: height = 0.2
+407.6505 	EXP 	text: text = 9
+408.1340 	EXP 	text: autoDraw = True
+408.5548 	EXP 	text: autoDraw = False
+408.5548 	EXP 	text: autoDraw = False
+408.5548 	EXP 	image_5: image = 'condition_2/leftstar.PNG'
+409.7363 	EXP 	image_5: autoDraw = True
+410.1707 	EXP 	New trial (rep=1, index=4): {'stimuli': 2, 'star': 'condition_2/leftstar.PNG', 'CorrectAns': 'space'}
+410.2223 	DATA 	Keypress: left
+410.2270 	EXP 	image_5: autoDraw = False
+410.2270 	EXP 	image_4: image = 'condition_2/fixation.png'
+410.2270 	EXP 	image_4: autoDraw = True
+410.7005 	EXP 	image_4: autoDraw = False
+410.7005 	EXP 	text: height = 0.2
+410.7005 	EXP 	text: height = 0.2
+410.7005 	EXP 	text: height = 0.2
+410.7005 	EXP 	text: text = 2
+411.1838 	EXP 	text: autoDraw = True
+411.6127 	EXP 	text: autoDraw = False
+411.6127 	EXP 	text: autoDraw = False
+411.6127 	EXP 	image_5: image = 'condition_2/leftstar.PNG'
+412.7864 	EXP 	image_5: autoDraw = True
+413.6004 	EXP 	image_5: autoDraw = False
+413.6367 	EXP 	New trial (rep=1, index=5): {'stimuli': 8, 'star': 'condition_2/leftstar.PNG', 'CorrectAns': 'left'}
+413.6890 	DATA 	Keypress: space
+413.6946 	EXP 	image_5: autoDraw = False
+413.6946 	EXP 	image_4: image = 'condition_2/fixation.png'
+413.6946 	EXP 	image_4: autoDraw = True
+414.1812 	EXP 	image_4: autoDraw = False
+414.1812 	EXP 	text: height = 0.2
+414.1812 	EXP 	text: height = 0.2
+414.1812 	EXP 	text: height = 0.2
+414.1812 	EXP 	text: text = 8
+414.6507 	EXP 	text: autoDraw = True
+415.0522 	EXP 	text: autoDraw = False
+415.0522 	EXP 	text: autoDraw = False
+415.0522 	EXP 	image_5: image = 'condition_2/leftstar.PNG'
+416.2526 	EXP 	image_5: autoDraw = True
+416.7048 	EXP 	New trial (rep=1, index=6): {'stimuli': 9, 'star': 'condition_2/blank.PNG', 'CorrectAns': 'space'}
+416.7536 	DATA 	Keypress: left
+416.7584 	EXP 	image_5: autoDraw = False
+416.7584 	EXP 	image_4: image = 'condition_2/fixation.png'
+416.7584 	EXP 	image_4: autoDraw = True
+417.2338 	EXP 	image_4: autoDraw = False
+417.2338 	EXP 	text: height = 0.2
+417.2338 	EXP 	text: height = 0.2
+417.2338 	EXP 	text: height = 0.2
+417.2338 	EXP 	text: text = 9
+417.7172 	EXP 	text: autoDraw = True
+418.1424 	EXP 	text: autoDraw = False
+418.1424 	EXP 	text: autoDraw = False
+418.1424 	EXP 	image_5: image = 'condition_2/blank.PNG'
+419.3183 	EXP 	image_5: autoDraw = True
+420.1173 	EXP 	image_5: autoDraw = False
+420.6045 	EXP 	New trial (rep=1, index=7): {'stimuli': 1, 'star': 'condition_2/leftstar.PNG', 'CorrectAns': 'space'}
+420.6514 	DATA 	Keypress: space
+420.6565 	EXP 	image_5: autoDraw = False
+420.6565 	EXP 	image_4: image = 'condition_2/fixation.png'
+420.6565 	EXP 	image_4: autoDraw = True
+421.1340 	EXP 	image_4: autoDraw = False
+421.1340 	EXP 	text: height = 0.2
+421.1340 	EXP 	text: height = 0.2
+421.1340 	EXP 	text: height = 0.2
+421.1340 	EXP 	text: text = 1
+421.6171 	EXP 	text: autoDraw = True
+422.1466 	EXP 	text: autoDraw = False
+422.1466 	EXP 	text: autoDraw = False
+422.1466 	EXP 	image_5: image = 'condition_2/leftstar.PNG'
+423.2195 	EXP 	image_5: autoDraw = True
+423.7207 	EXP 	New trial (rep=1, index=8): {'stimuli': 1, 'star': 'condition_2/rightstar.PNG', 'CorrectAns': 'space'}
+423.7679 	DATA 	Keypress: space
+423.7725 	EXP 	image_5: autoDraw = False
+423.7725 	EXP 	image_4: image = 'condition_2/fixation.png'
+423.7725 	EXP 	image_4: autoDraw = True
+424.2504 	EXP 	image_4: autoDraw = False
+424.2504 	EXP 	text: height = 0.2
+424.2504 	EXP 	text: height = 0.2
+424.2504 	EXP 	text: height = 0.2
+424.2504 	EXP 	text: text = 1
+424.7338 	EXP 	text: autoDraw = True
+425.1366 	EXP 	text: autoDraw = False
+425.1366 	EXP 	text: autoDraw = False
+425.1366 	EXP 	image_5: image = 'condition_2/rightstar.PNG'
+426.3362 	EXP 	image_5: autoDraw = True
+426.8537 	EXP 	New trial (rep=1, index=9): {'stimuli': 1, 'star': 'condition_2/blank.PNG', 'CorrectAns': 'space'}
+426.9048 	DATA 	Keypress: space
+426.9096 	EXP 	image_5: autoDraw = False
+426.9096 	EXP 	image_4: image = 'condition_2/fixation.png'
+426.9096 	EXP 	image_4: autoDraw = True
+427.3841 	EXP 	image_4: autoDraw = False
+427.3841 	EXP 	text: height = 0.2
+427.3841 	EXP 	text: height = 0.2
+427.3841 	EXP 	text: height = 0.2
+427.3841 	EXP 	text: text = 1
+427.8676 	EXP 	text: autoDraw = True
+428.2341 	EXP 	text: autoDraw = False
+428.2341 	EXP 	text: autoDraw = False
+428.2341 	EXP 	image_5: image = 'condition_2/blank.PNG'
+429.4686 	EXP 	image_5: autoDraw = True
+429.8703 	EXP 	New trial (rep=1, index=10): {'stimuli': 1, 'star': 'condition_2/rightstar.PNG', 'CorrectAns': 'space'}
+429.9181 	DATA 	Keypress: space
+429.9226 	EXP 	image_5: autoDraw = False
+429.9226 	EXP 	image_4: image = 'condition_2/fixation.png'
+429.9226 	EXP 	image_4: autoDraw = True
+430.4005 	EXP 	image_4: autoDraw = False
+430.4005 	EXP 	text: height = 0.2
+430.4005 	EXP 	text: height = 0.2
+430.4005 	EXP 	text: height = 0.2
+430.4005 	EXP 	text: text = 1
+430.8841 	EXP 	text: autoDraw = True
+431.4387 	EXP 	text: autoDraw = False
+431.4387 	EXP 	text: autoDraw = False
+431.4387 	EXP 	image_5: image = 'condition_2/rightstar.PNG'
+432.4867 	EXP 	image_5: autoDraw = True
+432.6906 	EXP 	New trial (rep=1, index=11): {'stimuli': 8, 'star': 'condition_2/blank.PNG', 'CorrectAns': 'space'}
+432.7421 	DATA 	Keypress: space
+432.7467 	EXP 	image_5: autoDraw = False
+432.7467 	EXP 	image_4: image = 'condition_2/fixation.png'
+432.7467 	EXP 	image_4: autoDraw = True
+433.2205 	EXP 	image_4: autoDraw = False
+433.2205 	EXP 	text: height = 0.2
+433.2205 	EXP 	text: height = 0.2
+433.2205 	EXP 	text: height = 0.2
+433.2205 	EXP 	text: text = 8
+433.7007 	EXP 	text: autoDraw = True
+434.0725 	EXP 	text: autoDraw = False
+434.0725 	EXP 	text: autoDraw = False
+434.0725 	EXP 	image_5: image = 'condition_2/blank.PNG'
+435.3018 	EXP 	image_5: autoDraw = True
+436.1007 	EXP 	image_5: autoDraw = False
+436.8528 	EXP 	New trial (rep=1, index=12): {'stimuli': 8, 'star': 'condition_2/rightstar.PNG', 'CorrectAns': 'right'}
+436.9109 	DATA 	Keypress: space
+436.9156 	EXP 	image_5: autoDraw = False
+436.9156 	EXP 	image_4: image = 'condition_2/fixation.png'
+436.9156 	EXP 	image_4: autoDraw = True
+437.3837 	EXP 	image_4: autoDraw = False
+437.3837 	EXP 	text: height = 0.2
+437.3837 	EXP 	text: height = 0.2
+437.3837 	EXP 	text: height = 0.2
+437.3837 	EXP 	text: text = 8
+437.8672 	EXP 	text: autoDraw = True
+438.4160 	EXP 	text: autoDraw = False
+438.4160 	EXP 	text: autoDraw = False
+438.4160 	EXP 	image_5: image = 'condition_2/rightstar.PNG'
+439.4697 	EXP 	image_5: autoDraw = True
+439.8870 	EXP 	New trial (rep=1, index=13): {'stimuli': 8, 'star': 'condition_2/rightstar.PNG', 'CorrectAns': 'right'}
+439.9395 	DATA 	Keypress: right
+439.9443 	EXP 	image_5: autoDraw = False
+439.9443 	EXP 	image_4: image = 'condition_2/fixation.png'
+439.9443 	EXP 	image_4: autoDraw = True
+440.4171 	EXP 	image_4: autoDraw = False
+440.4171 	EXP 	text: height = 0.2
+440.4171 	EXP 	text: height = 0.2
+440.4171 	EXP 	text: height = 0.2
+440.4171 	EXP 	text: text = 8
+440.9008 	EXP 	text: autoDraw = True
+441.3069 	EXP 	text: autoDraw = False
+441.3069 	EXP 	text: autoDraw = False
+441.3069 	EXP 	image_5: image = 'condition_2/rightstar.PNG'
+442.5027 	EXP 	image_5: autoDraw = True
+443.0207 	EXP 	New trial (rep=1, index=14): {'stimuli': 2, 'star': 'condition_2/rightstar.PNG', 'CorrectAns': 'space'}
+443.0727 	DATA 	Keypress: right
+443.0773 	EXP 	image_5: autoDraw = False
+443.0773 	EXP 	image_4: image = 'condition_2/fixation.png'
+443.0773 	EXP 	image_4: autoDraw = True
+443.5508 	EXP 	image_4: autoDraw = False
+443.5508 	EXP 	text: height = 0.2
+443.5508 	EXP 	text: height = 0.2
+443.5508 	EXP 	text: height = 0.2
+443.5508 	EXP 	text: text = 2
+444.0339 	EXP 	text: autoDraw = True
+444.4648 	EXP 	text: autoDraw = False
+444.4648 	EXP 	text: autoDraw = False
+444.4648 	EXP 	image_5: image = 'condition_2/rightstar.PNG'
+445.6361 	EXP 	image_5: autoDraw = True
+446.0374 	EXP 	New trial (rep=1, index=15): {'stimuli': 9, 'star': 'condition_2/rightstar.PNG', 'CorrectAns': 'right'}
+446.0843 	DATA 	Keypress: space
+446.0890 	EXP 	image_5: autoDraw = False
+446.0890 	EXP 	image_4: image = 'condition_2/fixation.png'
+446.0890 	EXP 	image_4: autoDraw = True
+446.5672 	EXP 	image_4: autoDraw = False
+446.5672 	EXP 	text: height = 0.2
+446.5672 	EXP 	text: height = 0.2
+446.5672 	EXP 	text: height = 0.2
+446.5672 	EXP 	text: text = 9
+447.0507 	EXP 	text: autoDraw = True
+447.4737 	EXP 	text: autoDraw = False
+447.4737 	EXP 	text: autoDraw = False
+447.4737 	EXP 	image_5: image = 'condition_2/rightstar.PNG'
+448.6526 	EXP 	image_5: autoDraw = True
+449.0538 	EXP 	New trial (rep=1, index=16): {'stimuli': 2, 'star': 'condition_2/rightstar.PNG', 'CorrectAns': 'space'}
+449.1168 	DATA 	Keypress: right
+449.1213 	EXP 	image_5: autoDraw = False
+449.1213 	EXP 	image_4: image = 'condition_2/fixation.png'
+449.1213 	EXP 	image_4: autoDraw = True
+449.5841 	EXP 	image_4: autoDraw = False
+449.5841 	EXP 	text: height = 0.2
+449.5841 	EXP 	text: height = 0.2
+449.5841 	EXP 	text: height = 0.2
+449.5841 	EXP 	text: text = 2
+450.0673 	EXP 	text: autoDraw = True
+450.5357 	EXP 	text: autoDraw = False
+450.5357 	EXP 	text: autoDraw = False
+450.5357 	EXP 	image_5: image = 'condition_2/rightstar.PNG'
+451.6692 	EXP 	image_5: autoDraw = True
+452.3039 	EXP 	New trial (rep=1, index=17): {'stimuli': 9, 'star': 'condition_2/rightstar.PNG', 'CorrectAns': 'right'}
+452.3674 	DATA 	Keypress: space
+452.3717 	EXP 	image_5: autoDraw = False
+452.3717 	EXP 	image_4: image = 'condition_2/fixation.png'
+452.3717 	EXP 	image_4: autoDraw = True
+452.8363 	EXP 	image_4: autoDraw = False
+452.8363 	EXP 	text: height = 0.2
+452.8363 	EXP 	text: height = 0.2
+452.8363 	EXP 	text: height = 0.2
+452.8363 	EXP 	text: text = 9
+453.3169 	EXP 	text: autoDraw = True
+453.7409 	EXP 	text: autoDraw = False
+453.7409 	EXP 	text: autoDraw = False
+453.7409 	EXP 	image_5: image = 'condition_2/rightstar.PNG'
+454.9193 	EXP 	image_5: autoDraw = True
+455.4870 	EXP 	New trial (rep=1, index=18): {'stimuli': 1, 'star': 'condition_2/leftstar.PNG', 'CorrectAns': 'space'}
+455.5354 	DATA 	Keypress: right
+455.5401 	EXP 	image_5: autoDraw = False
+455.5401 	EXP 	image_4: image = 'condition_2/fixation.png'
+455.5401 	EXP 	image_4: autoDraw = True
+456.0173 	EXP 	image_4: autoDraw = False
+456.0173 	EXP 	text: height = 0.2
+456.0173 	EXP 	text: height = 0.2
+456.0173 	EXP 	text: height = 0.2
+456.0173 	EXP 	text: text = 1
+456.5007 	EXP 	text: autoDraw = True
+456.9335 	EXP 	text: autoDraw = False
+456.9335 	EXP 	text: autoDraw = False
+456.9335 	EXP 	image_5: image = 'condition_2/leftstar.PNG'
+458.1027 	EXP 	image_5: autoDraw = True
+458.5040 	EXP 	New trial (rep=1, index=19): {'stimuli': 2, 'star': 'condition_2/rightstar.PNG', 'CorrectAns': 'space'}
+458.5506 	DATA 	Keypress: space
+458.5555 	EXP 	image_5: autoDraw = False
+458.5555 	EXP 	image_4: image = 'condition_2/fixation.png'
+458.5555 	EXP 	image_4: autoDraw = True
+459.0341 	EXP 	image_4: autoDraw = False
+459.0341 	EXP 	text: height = 0.2
+459.0341 	EXP 	text: height = 0.2
+459.0341 	EXP 	text: height = 0.2
+459.0341 	EXP 	text: text = 2
+459.5171 	EXP 	text: autoDraw = True
+459.9213 	EXP 	text: autoDraw = False
+459.9213 	EXP 	text: autoDraw = False
+459.9213 	EXP 	image_5: image = 'condition_2/rightstar.PNG'
+461.1191 	EXP 	image_5: autoDraw = True
+461.5209 	EXP 	New trial (rep=1, index=20): {'stimuli': 2, 'star': 'condition_2/leftstar.PNG', 'CorrectAns': 'space'}
+461.5703 	DATA 	Keypress: space
+461.5754 	EXP 	image_5: autoDraw = False
+461.5754 	EXP 	image_4: image = 'condition_2/fixation.png'
+461.5754 	EXP 	image_4: autoDraw = True
+462.0506 	EXP 	image_4: autoDraw = False
+462.0506 	EXP 	text: height = 0.2
+462.0506 	EXP 	text: height = 0.2
+462.0506 	EXP 	text: height = 0.2
+462.0506 	EXP 	text: text = 2
+462.5338 	EXP 	text: autoDraw = True
+462.9362 	EXP 	text: autoDraw = False
+462.9362 	EXP 	text: autoDraw = False
+462.9362 	EXP 	image_5: image = 'condition_2/leftstar.PNG'
+464.1359 	EXP 	image_5: autoDraw = True
+464.5370 	EXP 	New trial (rep=1, index=21): {'stimuli': 8, 'star': 'condition_2/blank.PNG', 'CorrectAns': 'space'}
+464.5853 	DATA 	Keypress: space
+464.5899 	EXP 	image_5: autoDraw = False
+464.5899 	EXP 	image_4: image = 'condition_2/fixation.png'
+464.5899 	EXP 	image_4: autoDraw = True
+465.0672 	EXP 	image_4: autoDraw = False
+465.0672 	EXP 	text: height = 0.2
+465.0672 	EXP 	text: height = 0.2
+465.0672 	EXP 	text: height = 0.2
+465.0672 	EXP 	text: text = 8
+465.5505 	EXP 	text: autoDraw = True
+465.9709 	EXP 	text: autoDraw = False
+465.9709 	EXP 	text: autoDraw = False
+465.9709 	EXP 	image_5: image = 'condition_2/blank.PNG'
+467.1520 	EXP 	image_5: autoDraw = True
+467.9503 	EXP 	image_5: autoDraw = False
+468.1041 	EXP 	New trial (rep=1, index=22): {'stimuli': 1, 'star': 'condition_2/leftstar.PNG', 'CorrectAns': 'space'}
+468.1515 	DATA 	Keypress: space
+468.1564 	EXP 	image_5: autoDraw = False
+468.1564 	EXP 	image_4: image = 'condition_2/fixation.png'
+468.1564 	EXP 	image_4: autoDraw = True
+468.6336 	EXP 	image_4: autoDraw = False
+468.6336 	EXP 	text: height = 0.2
+468.6336 	EXP 	text: height = 0.2
+468.6336 	EXP 	text: height = 0.2
+468.6336 	EXP 	text: text = 1
+469.1171 	EXP 	text: autoDraw = True
+469.6436 	EXP 	text: autoDraw = False
+469.6436 	EXP 	text: autoDraw = False
+469.6436 	EXP 	image_5: image = 'condition_2/leftstar.PNG'
+470.7194 	EXP 	image_5: autoDraw = True
+471.1206 	EXP 	New trial (rep=1, index=23): {'stimuli': 2, 'star': 'condition_2/blank.PNG', 'CorrectAns': 'space'}
+471.1735 	DATA 	Keypress: space
+471.1808 	EXP 	image_5: autoDraw = False
+471.1808 	EXP 	image_4: image = 'condition_2/fixation.png'
+471.1808 	EXP 	image_4: autoDraw = True
+471.6612 	EXP 	image_4: autoDraw = False
+471.6612 	EXP 	text: height = 0.2
+471.6612 	EXP 	text: height = 0.2
+471.6612 	EXP 	text: height = 0.2
+471.6612 	EXP 	text: text = 2
+472.1339 	EXP 	text: autoDraw = True
+472.4992 	EXP 	text: autoDraw = False
+472.4992 	EXP 	text: autoDraw = False
+472.4992 	EXP 	image_5: image = 'condition_2/blank.PNG'
+473.7353 	EXP 	image_5: autoDraw = True
+474.5337 	EXP 	image_5: autoDraw = False
+474.9698 	EXP 	New trial (rep=1, index=24): {'stimuli': 8, 'star': 'condition_2/leftstar.PNG', 'CorrectAns': 'left'}
+475.0185 	DATA 	Keypress: space
+475.0232 	EXP 	image_5: autoDraw = False
+475.0232 	EXP 	image_4: image = 'condition_2/fixation.png'
+475.0232 	EXP 	image_4: autoDraw = True
+475.5004 	EXP 	image_4: autoDraw = False
+475.5004 	EXP 	text: height = 0.2
+475.5004 	EXP 	text: height = 0.2
+475.5004 	EXP 	text: height = 0.2
+475.5004 	EXP 	text: text = 8
+475.9838 	EXP 	text: autoDraw = True
+476.4003 	EXP 	text: autoDraw = False
+476.4003 	EXP 	text: autoDraw = False
+476.4003 	EXP 	image_5: image = 'condition_2/leftstar.PNG'
+477.5858 	EXP 	image_5: autoDraw = True
+478.0226 	DATA 	Keypress: left
+478.0341 	EXP 	image_5: autoDraw = False
+478.0346 	EXP 	untitled: status = STOPPED
+478.3147 	EXP 	window1: mouseVisible = True

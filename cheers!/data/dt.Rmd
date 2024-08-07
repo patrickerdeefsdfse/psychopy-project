@@ -1,0 +1,181 @@
+---
+title: "Untitled"
+output: html_document
+date: "2023-11-14"
+---
+
+```{r}
+library(tidyverse)
+library(readxl)
+library(lme4)
+library(Matrix)
+```
+
+```{r}
+dt1<-read_excel("2.xlsx")
+view(dt1)
+```
+
+```{r}
+dt <- dt1 %>%
+  filter(!(Ans == "space" | Yesorno == 0) & RT>=0.15 & RT<= 0.9)%>%
+mutate(Numbersize = ifelse(stimuli %in% c(1,2),"lessthan5","morethan5"))
+view(dt)
+```
+```{r}
+dt$Ans <- factor(dt$Ans)
+dt$Numbersize <- factor(dt$Numbersize，ref= lessthan5)
+Model <-lm(RT ~ Numbersize * Ans, data = dt)
+summary(Model)
+anova(Model)
+```
+
+
+```{r}
+twoway<-aov(RT~stimuli + Ans, data= dt)
+summary(aov(RT~stimuli + Ans, data= dt))
+
+```
+
+```{r}
+model<-aov(RT ~ Ans * Numbersize,data=dt)
+summary(model)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+```{r}
+dt <- dt1 %>%
+  filter(!(Ans == "space" | Yesorno == 0) & RT>=0.15 & RT<= 0.9 & Ans== )%>%
+mutate(Numbersize = ifelse(stimuli %in% c(1,2),"lessthan5","morethan5"))
+dt
+```
+```{r}
+dt$Ans <- factor(dt$Ans)
+dt$Numbersize <- factor(dt$Numbersize)
+Model <-lm(RT ~ Numbersize + Ans, data = dt)
+summary(Model)
+anova(Model)
+```
+
+
+```{r}
+twoway<-aov(RT~stimuli + Ans, data= dt)
+summary(aov(RT~stimuli + Ans, data= dt))
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r}
+dt <- dt1 %>%
+  filter(!(Ans == "space" | Yesorno == 0) & RT>=0.15 & RT<= 0.9)%>%
+mutate(Numbersize = ifelse(stimuli %in% c(1,2),"lessthan5","morethan5"))
+dt
+```
+```{r}
+dt$Ans <- factor(dt$Ans)
+dt$Numbersize <- factor(dt$Numbersize)
+Model <-lm(RT ~ Numbersize + Ans, data = dt)
+summary(Model)
+anova(Model)
+```
+
+
+```{r}
+twoway<-aov(RT~stimuli + Ans, data= dt)
+summary(aov(RT~stimuli + Ans, data= dt))
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```{r}
+dt <- dt1 %>%
+  filter(!(Ans == "space" | Yesorno == 0) & RT>=0.15 & RT<= 0.9)%>%
+mutate(Numbersize = ifelse(stimuli %in% c(1,2),"lessthan5","morethan5"))
+dt
+```
+```{r}
+dt$Ans <- factor(dt$Ans)
+dt$Numbersize <- factor(dt$Numbersize)
+Model <-lm(RT ~ Numbersize + Ans, data = dt)
+summary(Model)
+anova(Model)
+```
+
+
+```{r}
+twoway<-aov(RT~stimuli + Ans, data= dt)
+summary(aov(RT~stimuli + Ans, data= dt))
+
+```
+
+
+
+
+
+
+```{r}
+dt <- dt1 %>%
+  filter(!(Ans == "space" | Yesorno == 0) & RT>=0.15 & RT<= 0.9)%>%
+mutate(Numbersize = ifelse(stimuli %in% c(1,2),"lessthan5","morethan5"))
+dt
+```
+```{r}
+dt$Ans <- factor(dt$Ans)
+dt$Numbersize <- factor(dt$Numbersize)
+Model <-lm(RT ~ Numbersize + Ans, data = dt)
+summary(Model)
+anova(Model)
+```
+
+
+```{r}
+twoway<-aov(RT~stimuli + Ans, data= dt)
+summary(aov(RT~stimuli + Ans, data= dt))
+
+```
+
+
